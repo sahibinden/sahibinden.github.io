@@ -1,5 +1,6 @@
 auto:       true
 pygments:   true
+permalink:  /yazi/:title/
 markdown:   maruku
 authors:
     barisg:
