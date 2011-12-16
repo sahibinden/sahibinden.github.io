@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Sahibinden Labs</title>
+	<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css" />
+</head>
+
+<body id="index">
+	<div class="container">
+	<ul>
+	{% for post in site.posts limit:5 %}
+	<li><span class="entry-date">{{ post.date | date:"%d %b" }}</span><a class="entry-title" href="{{ post.url }}">{{ post.title }}</a>
+	{{ post.content | postmorefilter: post.url, "read more &rarr;"  }}
+	</li>
+	{% endfor %}
+	</ul>
+</div>
+</body>
+</html>

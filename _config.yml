@@ -1,0 +1,18 @@
+auto:       true
+pygments:   true
+markdown:   maruku
+authors:
+    barisg:
+        display_name: Barış Güzelordu
+        gravatar: 682272358bfb09423fe551c92f19640a
+        email: baris.guzelordu@sahibinden.com
+        web: http://www.sahibinden.com/
+        twitter: barisg
+        github: barisg
+    muratco:
+        display_name: Murat Çorlu
+        gravatar: dd29712a3d95618ceea14b9b28f412f5
+        email: murat.corlu@sahibinden.com
+        web: http://www.sahibinden.com
+        twitter: muratcorlu
+        github: muratcorlu
