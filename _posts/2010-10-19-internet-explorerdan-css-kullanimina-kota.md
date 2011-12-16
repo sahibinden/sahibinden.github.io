@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Internet Explorer’dan CSS Kullanımına Kota 
+title: Internet Explorer'dan CSS Kullanımına Kota 
 author: muratco
 created: !!timestamp '2010-10-19 10:00:00'
 tags:
     - CSS
     - Internet Explorer
-	- Tecrübeler
+    - Tecrübeler
 ---
 
 Sahibinden.com için uğraştığımız bir web mimarisinde, sayfalarımızdaki stil tanımlamalarını geliştirme ortamımızda kullanım alanlarına göre küçük parçalara ayırıyoruz. Böylece sayfalarda bölgesel işler yapılırken geliştirme daha kolay ilerletilebiliyor ve modüler bir yapıya ulaşabiliyoruz. Bu stil dosyaları yayımlama ortamına alırken otomatik bir işlemle birleştiriliyor ve tek bir css dosyası haline getiriliyor.
