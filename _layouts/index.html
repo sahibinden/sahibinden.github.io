@@ -1,14 +1,20 @@
 {% include head.html %}
 
 <body id="index">
-	<div class="container">
-	<ul>
+{% include header.html %}
+
+	<ol>
 	{% for post in site.posts limit:5 %}
-	<li><span class="entry-date">{{ post.date | date:"%d %b" }}</span><a class="entry-title" href="{{ post.url }}">{{ post.title }}</a>
-	{{ post.content | postmorefilter: post.url, "read more &rarr;"  }}
-	</li>
+		<li>
+			<article>
+				<h2><a class="entry-title" href="{{ post.url }}">{{ post.title }}</a></h2>
+				<p class="meta"><span class="entry-date">{{ post.date | date:"%d %b" }}</span></p>
+				{{ post.content | postmorefilter: post.url, "read more &rarr;"  }}
+			</article>
+		</li>
 	{% endfor %}
-	</ul>
-</div>
+	</ol>
+
+{% include footer.html %}
 </body>
 </html>
