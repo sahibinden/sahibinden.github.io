@@ -1,19 +1,99 @@
-auto:       true
-pygments:   true
-permalink:  /yazi/:title/
-markdown:   maruku
+title:            Sahibinden Labs
+description:      kolektif üretim sahası
+logo:             site-logo.png
+disqus_shortname: sahibindenlabsblog
+search:           true
+# Change url to your domain. Leave localhost server or blank when working locally.
+url:              http://localhost:4000
+
+# Owner/author information
+owner:
+  name:           Sahibinden Labs
+  avatar:         bio-photo.jpg
+  email:          labs@sahibinden.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        sahibindenLabs
+  facebook:       http://www.facebook.com/pages/Sahibinden-Labs/156713311036060
+  github:         sahibinden
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
 authors:
-    barisg:
-        display_name: Barış Güzelordu
-        gravatar: 682272358bfb09423fe551c92f19640a
-        email: baris.guzelordu@sahibinden.com
-        web: http://www.sahibinden.com/
-        twitter: barisg
-        github: barisg
-    muratco:
-        display_name: Murat Çorlu
-        gravatar: dd29712a3d95618ceea14b9b28f412f5
-        email: murat.corlu@sahibinden.com
-        web: http://www.sahibinden.com
-        twitter: muratcorlu
-        github: muratcorlu
+  muratcorlu:
+    name:       Murat Çorlu
+    avatar:     muratcorlu.jpg
+    working:    true
+    title:      Principal Frontend Developer
+    twitter:    muratcorlu
+    github:     muratcorlu
+
+  barisguzelordu:
+    name:       Barış Güzelordu
+    avatar:     barisguzelordu.jpg
+    working:    false
+    title:      Direktor
+
+  serkancapkan:
+    name:       Serkan Çapkan
+    avatar:     serkancapkan.jpg
+    title:      Linux Sistem Yöneticisi
+    working:    false
+
+  guvendemir:
+    name:       Güven Demir
+    avatar:     guvendemir.jpg
+    title:      Chief Architect
+    working:    true
+
+  sercaneraslan:
+    name:       Sercan Eraslan
+    avatar:     sercaneraslan.jpg
+    title:      Frontend Developer
+    working:    true
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+#links:
+#  - title: Hakkında
+#    url: /hakkinda/
+#  - title: Makaleler
+#    url: /yazi/
+#  - title: Kariyer
+#    url: /kariyer/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Istanbul
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /yazi/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
