@@ -127,12 +127,12 @@ body {
 		@media @medium {
 			width: 150px;
 			height: 150px;
-			.rounded(150px);
+			.rounded(40px);
 		}
 		@media @large {
 			width: 200px;
 			height: 200px;
-			.rounded(200px);
+			.rounded(50px);
 		}
 	}
 }
@@ -165,6 +165,10 @@ body {
 	@media @medium {
 		.font-rem(20);
 	}
+}
+.site-title,
+.site-description {
+	display: none;
 }
 
 // Main
@@ -304,6 +308,75 @@ span + .entry-title {
 .post-list {
 	li > a {
 		border-bottom-width: 0;
+	}
+}
+.team-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	li {
+		display: inline-block;
+		margin: 10px;
+		position: relative;
+		.author-photo {
+			display: block;
+			width: 150px;
+			height: 150px;
+			margin-bottom: 10px;
+			.rounded(150px);
+			.clearfix();
+		}
+		.author-photo + div {
+			display: none;
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 150px;
+			height: 150px;
+			.rounded(150px);
+			background-color: rgba(0,0,0,.8);
+			color: #fff;
+			text-align:center;
+			.baloon-container {
+				position: absolute;
+				top: 50%;
+				width: 100%;
+				-webkit-transform: translateY(-50%);
+				transform: translateY(-50%);
+			}
+			.social-links {
+				text-align: center;
+				a {
+					display: inline-block;
+					color: #fff;
+					width: 16px;
+					height: 16px;
+					opacity: .7;
+					font-size: 16px;
+					border: none;
+				}
+				a:hover {
+					opacity: 1;
+				}
+			}
+			h2 {
+				font-size: 20px;
+			}
+			h2, p {
+				margin: 0;
+			}
+			p {
+				min-height: 16px;
+				font-size: 12px;
+				margin: 0 10px;
+			}
+		}
+		.author-photo:hover + div,
+		.author-photo + div:hover {
+			display: block;
+			box-shadow: 0 0 0 10px #FF0;
+		}
 	}
 }
 // Disqus Comments

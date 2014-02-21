@@ -24,6 +24,26 @@ owner:
   google_plus:
 
 authors:
+  barisguzelordu:
+    name:       Barış Güzelordu
+    avatar:     barisguzelordu.jpg
+    permalink:  baris-guzelordu
+    working:    false
+
+  fatihhayrioglu:
+    name:       Fatih Hayrioğlu
+    avatar:     fatihhayrioglu.jpg
+    permalink:  fatih-hayrioglu
+    title:      Frontend Developer
+    working:    true
+
+  guvendemir:
+    name:       Güven Demir
+    avatar:     guvendemir.jpg
+    permalink:  guven-demir
+    title:      Chief Architect
+    working:    true
+
   muratcorlu:
     name:       Murat Çorlu
     avatar:     muratcorlu.jpg
@@ -33,27 +53,6 @@ authors:
     twitter:    muratcorlu
     github:     muratcorlu
 
-  barisguzelordu:
-    name:       Barış Güzelordu
-    avatar:     barisguzelordu.jpg
-    permalink:  baris-guzelordu
-    working:    false
-    title:      Direktor
-
-  serkancapkan:
-    name:       Serkan Çapkan
-    avatar:     serkancapkan.jpg
-    permalink:  serkan-capkan
-    title:      Linux Sistem Yöneticisi
-    working:    false
-
-  guvendemir:
-    name:       Güven Demir
-    avatar:     guvendemir.jpg
-    permalink:  guven-demir
-    title:      Chief Architect
-    working:    true
-
   sercaneraslan:
     name:       Sercan Eraslan
     avatar:     sercaneraslan.jpg
@@ -61,12 +60,12 @@ authors:
     title:      Frontend Developer
     working:    true
 
-  fatihhayrioglu:
-    name:       Fatih Hayrioğlu
-    avatar:     fatihhayrioglu.jpg
-    permalink:  fatih-hayrioglu
-    title:      Frontend Developer
-    working:    true
+  serkancapkan:
+    name:       Serkan Çapkan
+    avatar:     serkancapkan.jpg
+    permalink:  serkan-capkan
+    working:    false
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -76,17 +75,16 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-#links:
-#  - title: Hakkında
-#    url: /hakkinda/
-#  - title: Makaleler
-#    url: /yazi/
+links:
+  - title: Ekibimiz
+    url: /ekibimiz/
+  - title: Makaleler
+    url: /yazi/
 #  - title: Kariyer
 #    url: /kariyer/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Istanbul
-future:      true
 pygments:    true
 markdown:    kramdown
 
