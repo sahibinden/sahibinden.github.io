@@ -10,7 +10,7 @@ layout: page
     <ul class="post-list">
     {% for post in site.posts do %}
       {% if post.author == page.author %}
-        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | localize: "%d %B %Y" }}</time></span></a></article></li>
+        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time></span></a></article></li>
       {% endif %}
     {% endfor %}
     </ul>
