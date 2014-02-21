@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<header class="entry-header">
+    <h1 class="entry-title">{{ site.authors[page.author].name }} Yazıları</h1>
+</header>
+
+<div class="entry-content">
+    <ul class="post-list">
+    {% for post in site.posts do %}
+      {% if post.author == page.author %}
+        <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | localize: "%d %B %Y" }}</time></span></a></article></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+</div>

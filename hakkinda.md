@@ -9,4 +9,8 @@ image:
   credit: Sahiplex
 ---
 
-Sahibinden.com
+<ul>
+{% for author in site.authors %}
+    <li><img src="/images/avatars/{{ author.avatar }}" alt="{{ author.name }}"></li>
+{% endfor %}
+</ul>
