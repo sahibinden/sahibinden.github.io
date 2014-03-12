@@ -3,7 +3,6 @@ description:      kolektif üretim sahası
 logo:             site-logo.png
 disqus_shortname: sahibindenlabsblog
 search:           true
-# Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://sahibinden.github.io
 
 # Owner/author information
@@ -23,52 +22,8 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
-authors:
-  barisguzelordu:
-    name:       Barış Güzelordu
-    avatar:     barisguzelordu.jpg
-    permalink:  baris-guzelordu
-    working:    false
-
-  fatihhayrioglu:
-    name:       Fatih Hayrioğlu
-    avatar:     fatihhayrioglu.jpg
-    permalink:  fatih-hayrioglu
-    title:      Frontend Developer
-    working:    true
-
-  guvendemir:
-    name:       Güven Demir
-    avatar:     guvendemir.jpg
-    permalink:  guven-demir
-    title:      Chief Architect
-    working:    true
-
-  muratcorlu:
-    name:       Murat Çorlu
-    avatar:     muratcorlu.jpg
-    permalink:  murat-corlu
-    working:    true
-    title:      Principal Frontend Developer
-    twitter:    muratcorlu
-    github:     muratcorlu
-
-  sercaneraslan:
-    name:       Sercan Eraslan
-    avatar:     sercaneraslan.jpg
-    permalink:  sercan-eraslan
-    title:      Frontend Developer
-    working:    true
-
-  serkancapkan:
-    name:       Serkan Çapkan
-    avatar:     serkancapkan.jpg
-    permalink:  serkan-capkan
-    working:    false
-
-
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-235070-12
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:

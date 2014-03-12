@@ -10,11 +10,12 @@ image:
 ---
 
 <ul class="team-list">
-{% for author in site.authors %}
+{% for author in site.data.team %}
     {% if author[1].working %}
     <li><img src="/images/avatars/{{ author[1].avatar }}" alt="{{ author[1].name }}" class="author-photo"><div>
         <div class="baloon-container">
-            <p class="social-links">{% if author[1].twitter %}
+            <p class="social-links">
+            {% if author[1].twitter %}
                 <a class="icon-twitter" href="https://twitter.com/{{ author[1].twitter }}"></a>
             {% endif %}
             {% if author[1].github %}

@@ -1,0 +1,44 @@
+barisguzelordu:
+  name:       Barış Güzelordu
+  avatar:     barisguzelordu.jpg
+  permalink:  baris-guzelordu
+  working:    false
+
+fatihhayrioglu:
+  name:       Fatih Hayrioğlu
+  avatar:     fatihhayrioglu.jpg
+  permalink:  fatih-hayrioglu
+  title:      Senior Frontend Developer
+  working:    true
+  twitter:    fatihhayri
+
+guvendemir:
+  name:       Güven Demir
+  avatar:     guvendemir.jpg
+  permalink:  guven-demir
+  title:      Chief Architect
+  working:    true
+
+muratcorlu:
+  name:       Murat Çorlu
+  avatar:     muratcorlu.jpg
+  permalink:  murat-corlu
+  working:    true
+  title:      Principal Frontend Developer
+  twitter:    muratcorlu
+  github:     muratcorlu
+
+sercaneraslan:
+  name:       Sercan Eraslan
+  avatar:     sercaneraslan.jpg
+  permalink:  sercan-eraslan
+  title:      Frontend Developer
+  working:    true
+  twitter:    sercan_eraslan
+  github:     sercaneraslan
+
+serkancapkan:
+  name:       Serkan Çapkan
+  avatar:     serkancapkan.jpg
+  permalink:  serkan-capkan
+  working:    false
