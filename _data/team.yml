@@ -11,6 +11,15 @@ berkayaktan:
   title:      Software Development Team Lead
   working:    true
 
+ermanceylan:
+  name:       Erman Ceylan
+  avatar:     ermanceylan.jpg
+  permalink:  erman-ceylan
+  working:    true
+  title:      Frontend Developer
+  twitter:    ermancey
+  github:     eceylan
+
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
   avatar:     fatihhayrioglu.jpg
