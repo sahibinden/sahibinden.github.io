@@ -2,6 +2,13 @@
 
 Sahibinden çalışanlarının teknik makalelerinden oluşan blog.
 
+## Ekibe kendinizi nasıl eklersiniz?
+
+1. Bu depoyu forklayın.
+2. Forkladığınız depoyu bilgisayarınıza klonlayın.
+3. `images/avatars` klasörüne `adinizsoyadiniz.jpg` şeklinde dosya adıyla, kare boyutunda, en az 150 piksel boyutunda bir avatar ekleyin.
+4. `_data/team.yml` dosyasındaki listeye kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
+
 ## Nasıl makale eklenir?
 
 1. Bu depoyu forklayın.
