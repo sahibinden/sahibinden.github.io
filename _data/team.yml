@@ -19,6 +19,15 @@ cenkebret:
   working:    true
   twitter:    cenkingunlugu
 
+ermanceylan:
+  name:       Erman Ceylan
+  avatar:     ermanceylan.jpg
+  permalink:  erman-ceylan
+  working:    true
+  title:      Frontend Developer
+  twitter:    ermancey
+  github:     eceylan
+
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
   avatar:     fatihhayrioglu.jpg
@@ -26,6 +35,7 @@ fatihhayrioglu:
   title:      Senior Frontend Developer
   working:    true
   twitter:    fatihhayri
+  github:     fatihhayri
 
 guvendemir:
   name:       Güven Demir

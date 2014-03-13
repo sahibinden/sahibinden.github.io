@@ -19,7 +19,13 @@ Selenium IDE ile Firefox’taki hareketlerimizi kayıt edebiliriz ve sonra üret
 
 Örneğin; www.sahibinden.com sayfasına gidilmesi, login olmak için gerekli linke tıklanması, login formunun doldurulması ve submit butonuna tıklanması aşağıdaki kodlardan oluşur:
 
-
+| Komut | Element | Değişken |
+|-------+---------+----------|
+| open | http://www.sahibinden.com/ | |
+| clickAndWait | link=login | |
+| type | username | sercaneraslan |
+| type | password | 123456 |
+| clickAndWait | //button[@type='submit'] | |
 
 Her zaman otomatik test yapmak iyi değildir. Ödeme, üye girişi gibi önemli sayfaların manuel olarak test edilmesi daha uygundur. Ayrıca yazılan testler bir süre sonra sayfaların değişikliğe uğraması sebebiyle geçerliliğini yitirecektir. Bundan dolayı, testlerin güncel tutulması önemlidir.
 
@@ -33,6 +39,7 @@ Selenium IDE yüklemesi bittiğinde Firefox menüsünden sırasıyla “Araçlar
 
 ## Selenium IDE’yi Tanıyalım
 
+![](/images/posts/selenium/seleniumView.png)
 
 Dosya
 : Yeni bir Test Case açmaya, kaydetmeye ya da daha önceden kaydedilmiş bir Test Case’i eklemeye ya da açmaya yarar.
@@ -156,14 +163,14 @@ Xpath, Selenium IDE de kullanılan bir yol göstericidir. Genelde veritabanında
 Selenium IDE ile kayıda başlayıp www.sahibinden.com ’un Anasayfası’ndaki “Acil Acil” linkine tıkladığınızda Selenium IDE “Source” bölümünde şöyle bir kayıt tutar;
 
     <tr>
-    <td>open</td>
-    <td>/</td>
-    <td></td>
+        <td>open</td>
+        <td>/</td>
+        <td></td>
     </tr>
     <tr>
-    <td>click</td>
-    <td>//div[@id='content']/div[3]/div[1]/div[2]/ul[1]/li[1]/a/strong/span/</td>
-    <td></td>
+        <td>click</td>
+        <td>//div[@id='content']/div[3]/div[1]/div[2]/ul[1]/li[1]/a/strong/span/</td>
+        <td></td>
     </tr>
 
 Bu Path kayıt sırasında otomatik olarak yazılır fakat istikrarlı çalışmamaktadır çünkü sitenin farklı bir sayfasında aynı linke tıklamak istediğinizde divler ya da tablollarda kayma olursa yol bulunamaz. Dolayısıyla şöyle bir ifade kullanmak daha mantıklıdır;
