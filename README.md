@@ -7,7 +7,7 @@ Sahibinden çalışanlarının teknik makalelerinden oluşan blog.
 1. Bu depoyu forklayın.
 2. Forkladığınız depoyu bilgisayarınıza klonlayın.
 3. `images/avatars` klasörüne `adinizsoyadiniz.jpg` şeklinde dosya adıyla, kare boyutunda, en az 150 piksel boyutunda bir avatar ekleyin.
-4. `_data/team.yml` dosyasındaki listeye kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
+4. `_data/team.yml` dosyasındaki alfabetik listenin uygun sırasına kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
 
 ## Nasıl makale eklenir?
 
@@ -15,7 +15,7 @@ Sahibinden çalışanlarının teknik makalelerinden oluşan blog.
 2. Daha önce bir yazı eklemediyseniz;
     1. Forkladığınız depoyu bilgisayarınıza klonlayın.
     2. `images/avatars` klasörüne `adinizsoyadiniz.jpg` şeklinde dosya adıyla, kare boyutunda, en az 150 piksel boyutunda bir avatar ekleyin.
-    3. `_data/team.yml` dosyasındaki listeye kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
+    3. `_data/team.yml` dosyasındaki alfabetik listenin uygun sırasına kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
     4. `authors` klasörüne `adinizsoyadiniz.md` isimli bir dosya ekleyin. Klasördeki diğer herhangi bir dosyadaki içeriği kopyalayıp, `author` ve `permalink` alanlarını güncelleyin.
 3. Yazınızı `_posts` klasörüne `2012-10-25-yazi-basligi.md` formatındaki isme sahip bir dosya ekleyerek, içine Markdown formatında yazın.
 4. Eğer görsel eklemeniz gerekirse, bunları `images/posts` klasörü içine, yazınız için yeni bir klasör açıp kullanabilirsiniz.
