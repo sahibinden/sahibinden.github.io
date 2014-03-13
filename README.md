@@ -22,7 +22,7 @@ Sahibinden çalışanlarının teknik makalelerinden oluşan blog.
 5. Oluşturduğunuz tüm içeriği "Pull request" ile blog editörlerine ulaştırın.
 6. İçeriğiniz sorumlu kişiler tarafından onaylanıp siteye eklenecektir.
 7. Her tür düzeltme ve diğer katkılar için de yukarıdaki işlemler geçerlidir.
-8. Yaptığınız değişikliği kendi bilgisayarınızda denemek için yapmanız gerekenleri [http://jekyllrb.com]() adresinden edinebilirsiniz.
+8. Yaptığınız değişikliği kendi bilgisayarınızda denemek için yapmanız gerekenleri [http://jekyllrb.com](http://jekyllrb.com) adresinden edinebilirsiniz.
 
 ## Yazar bilgileri ayrıntıları
 
