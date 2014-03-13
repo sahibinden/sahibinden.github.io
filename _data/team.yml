@@ -18,6 +18,13 @@ guvendemir:
   permalink:  guven-demir
   title:      Chief Architect
   working:    true
+  
+berkayaktan:
+  name:		  Berkay Aktan
+  avatar:	  berkayaktan.jpg
+  permalink:  berkay-aktan
+  title:	  Software Development Team Lead
+  working:	  true
 
 muratcorlu:
   name:       Murat Çorlu
