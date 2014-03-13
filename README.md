@@ -32,7 +32,7 @@ name
 avatar
 : Eklediğiniz avatar fotoğrafınızın dosya adı. Avatar fotoğrafınız, kare boyutunda, en az 200x200 boyutunda ve jpg formatında olmalıdır.
 
-title:
+title
 : Şirketteki ünvanınız
 
 permalink
