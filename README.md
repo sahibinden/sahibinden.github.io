@@ -46,3 +46,9 @@ github
 
 working
 : true verilmeli
+
+## Lokalde sitenin test edilmesi
+
+Bilgisayarınıza jekyll kurulumu yaptıktan sonra blogu klonladığınız klasörde aşağıdaki komutu çalıştırarak siteyi ve yaptığınız değişiklikleri http://localhost:4000/ adresinden test edebilirsiniz:
+
+`jekyll serve --config _config.yml,_config_dev.yml --watch`
