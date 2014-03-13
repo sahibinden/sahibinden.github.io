@@ -19,6 +19,15 @@ fatihhayrioglu:
   working:    true
   twitter:    fatihhayri
 
+ermanceylan:
+  name:       Erman Ceylan
+  avatar:     ermanceylan.jpg
+  permalink:  erman-ceylan
+  working:    true
+  title:      Frontend Developer
+  twitter:    ermancey
+  github:     eceylan
+
 guvendemir:
   name:       Güven Demir
   avatar:     guvendemir.jpg
