@@ -3,13 +3,21 @@ barisguzelordu:
   avatar:     barisguzelordu.jpg
   permalink:  baris-guzelordu
   working:    false
-  
+
 berkayaktan:
   name:       Berkay Aktan
   avatar:     berkayaktan.jpg
   permalink:  berkay-aktan
   title:      Software Development Team Lead
   working:    true
+
+cenkebret:
+  name:       Cenk Ebret
+  avatar:     cenkebret.jpg
+  permalink:  cenk-ebret
+  title:      Senior Frontend Developer
+  working:    true
+  twitter:    cenkingunlugu
 
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
