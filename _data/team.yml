@@ -4,14 +4,6 @@ barisguzelordu:
   permalink:  baris-guzelordu
   working:    false
 
-fatihhayrioglu:
-  name:       Fatih Hayrioğlu
-  avatar:     fatihhayrioglu.jpg
-  permalink:  fatih-hayrioglu
-  title:      Senior Frontend Developer
-  working:    true
-  twitter:    fatihhayri
-
 ermanceylan:
   name:       Erman Ceylan
   avatar:     ermanceylan.jpg
@@ -20,6 +12,14 @@ ermanceylan:
   title:      Frontend Developer
   twitter:    ermancey
   github:     eceylan
+
+fatihhayrioglu:
+  name:       Fatih Hayrioğlu
+  avatar:     fatihhayrioglu.jpg
+  permalink:  fatih-hayrioglu
+  title:      Senior Frontend Developer
+  working:    true
+  twitter:    fatihhayri
 
 guvendemir:
   name:       Güven Demir
