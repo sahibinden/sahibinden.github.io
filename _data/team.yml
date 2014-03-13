@@ -58,3 +58,11 @@ serkancapkan:
   avatar:     serkancapkan.jpg
   permalink:  serkan-capkan
   working:    false
+
+ismailatakurt:
+  name:       İsmail Ata Kurt
+  avatar:     ismailatakurt.jpg
+  permalink:  ismail-ata-kurt
+  title:      Developer
+  working:    true
+
