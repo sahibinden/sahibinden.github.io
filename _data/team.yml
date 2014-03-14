@@ -11,6 +11,15 @@ berkayaktan:
   title:      Software Development Team Lead
   working:    true
 
+canyildirim:
+  name:       Can Yıldırım
+  avatar:     canyildirim.jpg
+  permalink:  cenk-ebret
+  title:      QA Intern
+  working:    true
+  twitter:    cyildirim_
+  github:     cyildirim
+
 cenkebret:
   name:       Cenk Ebret
   avatar:     cenkebret.jpg
