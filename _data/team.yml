@@ -84,3 +84,12 @@ serkancapkan:
   permalink:  serkan-capkan
   working:    false
 
+mkatircioglu:
+  name:       Mete Alpaslan Katırcıoğlu
+  avatar:     mkatircioglu.jpg
+  permalink:  mete-alpaslan-katircioglu
+  title:      Senior Software Engineer
+  working:    true
+  twitter:    metekatircioglu
+  github:     mkatircioglu
+
