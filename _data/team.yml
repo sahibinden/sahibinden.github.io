@@ -51,6 +51,15 @@ ismailatakurt:
   title:      Developer
   working:    true
 
+mkatircioglu:
+  name:       Mete Alpaslan Katırcıoğlu
+  avatar:     mkatircioglu.jpg
+  permalink:  mete-alpaslan-katircioglu
+  title:      Senior Software Engineer
+  working:    true
+  twitter:    metekatircioglu
+  github:     mkatircioglu
+
 muratcorlu:
   name:       Murat Çorlu
   avatar:     muratcorlu.jpg
