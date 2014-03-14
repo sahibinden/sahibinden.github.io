@@ -50,6 +50,13 @@ ismailatakurt:
   permalink:  ismail-ata-kurt
   title:      Developer
   working:    true
+  
+merttolon:
+  name:       Mert Tolon
+  avatar:     merttolon.jpg
+  permalink:  mert-tolon
+  title:      Software Development Team Lead
+  working:    true
 
 muratcorlu:
   name:       Murat Çorlu
