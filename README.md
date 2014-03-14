@@ -4,10 +4,16 @@ Sahibinden çalışanlarının teknik makalelerinden oluşan blog.
 
 ## Ekibe kendinizi nasıl eklersiniz?
 
+Sahibinden çalışanı iseniz;
+
 1. Bu depoyu forklayın.
 2. Forkladığınız depoyu bilgisayarınıza klonlayın.
 3. `images/avatars` klasörüne `adinizsoyadiniz.jpg` şeklinde dosya adıyla, kare boyutunda, en az 150 piksel boyutunda bir avatar ekleyin.
 4. `_data/team.yml` dosyasındaki alfabetik listenin uygun sırasına kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
+
+Sahibinden çalışanı değilseniz;
+
+Hemen özgeçmişinizi [kariyer@sahibinden.com](mailto:kariyer@sahibinden.com)'a gönderin, siz de sahibinden ekibine adınızı yazdırın.
 
 ## Nasıl makale eklenir?
 
