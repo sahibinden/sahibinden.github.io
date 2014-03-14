@@ -44,6 +44,15 @@ guvendemir:
   title:      Chief Architect
   working:    true
 
+hasansama:
+  name:       Hasan Şama
+  avatar:     hasansama.jpg
+  permalink:  hasan-sama
+  title:      Software Developer
+  working:    true
+  twitter:    hasansama
+  github:     hasansama
+
 ismailatakurt:
   name:       İsmail Ata Kurt
   avatar:     ismailatakurt.jpg
