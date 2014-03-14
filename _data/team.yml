@@ -84,3 +84,11 @@ serkancapkan:
   permalink:  serkan-capkan
   working:    false
 
+tolgabeser:
+  name:       Tolga Beser
+  avatar:     tolgabeser.jpg
+  permalink:  sercan-eraslan
+  title:      Software Developer
+  working:    true
+  twitter:    tolgabeser
+  github:     tolgabeser
