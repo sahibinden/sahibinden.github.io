@@ -28,6 +28,15 @@ cenkebret:
   working:    true
   twitter:    cenkingunlugu
 
+emrekucukayvaz:
+  name:       Emre Küçükayvaz
+  avatar:     emrekucukayvaz.jpg
+  permalink:  emre-kucukayvaz
+  title:      Mobile Applications Team Lead
+  working:    true
+  twitter:    emrekyv
+  github:     emrekyv
+
 ermanceylan:
   name:       Erman Ceylan
   avatar:     ermanceylan.jpg
