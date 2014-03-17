@@ -58,3 +58,7 @@ working
 Bilgisayarınıza jekyll kurulumu yaptıktan sonra blogu klonladığınız klasörde aşağıdaki komutu çalıştırarak siteyi ve yaptığınız değişiklikleri http://localhost:4000/ adresinden test edebilirsiniz:
 
 `jekyll serve --config _config.yml,_config_dev.yml --watch`
+
+## Fork'lanan deponun orjinal depoyla senkronize edilmesi
+
+Ayrıntılı bilgi için [Github dokümantasyonundaki ilgili sayfaya](https://help.github.com/articles/syncing-a-fork) bakılabilir.
