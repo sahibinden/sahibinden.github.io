@@ -162,6 +162,15 @@ onurtokgoz:
   title:      DRC
   twitter:    silhouette81
 
+savasavcu:
+  name:       Savaş Avcu
+  avatar:     savasavcu.jpg
+  permalink:  savas-avcu
+  title:      Senior QA Analyst
+  working:    true
+  twitter:    savasavcu
+  github:     savasavcu
+
 sercaneraslan:
   name:       Sercan Eraslan
   avatar:     sercaneraslan.jpg
