@@ -36,6 +36,15 @@ cenkebret:
   working:    true
   twitter:    cenkingunlugu
 
+dorukozalp:
+  name:       Doruk Özalp
+  avatar:     dorukozalp.jpg
+  permalink:  doruk-ozalp
+  title:      Senior Software Developer
+  working:    true
+  twitter:    dorukozalp
+  github:     dorukozalp
+
 emrekucukayvaz:
   name:       Emre Küçükayvaz
   avatar:     emrekucukayvaz.jpg
