@@ -88,13 +88,20 @@ hasansama:
   twitter:    hasansama
   github:     hasansama
 
+ibrahimuzel:
+  name:       İbrahim Uzel
+  avatar:     ibrahimuzel.jpg
+  permalink:  ibrahim-uzel
+  title:      Yazılım Geliştirme Direktörü
+  working:    true
+
 ismailatakurt:
   name:       İsmail Ata Kurt
   avatar:     ismailatakurt.jpg
   permalink:  ismail-ata-kurt
   title:      Developer
   working:    true
-  
+
 merttolon:
   name:       Mert Tolon
   avatar:     merttolon.jpg
