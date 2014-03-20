@@ -11,6 +11,15 @@ berkayaktan:
   title:      Software Development Team Lead
   working:    true
 
+dorukozalp:
+  name:       Doruk Özalp
+  avatar:     dorukozalp.jpg
+  permalink:  doruk-ozalp
+  title:      Senior Software Developer
+  working:    true
+  twitter:    dorukozalp
+  github:     dorukozalp
+
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
   avatar:     fatihhayrioglu.jpg
