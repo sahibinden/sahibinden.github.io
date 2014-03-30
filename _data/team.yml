@@ -88,6 +88,14 @@ guvendemir:
   title:      Chief Architect
   working:    true
 
+hakansenceryildiz:
+  name:       Hakan Sencer Yıldız
+  avatar:     hakansenceryildiz.jpg
+  permalink:  hakansencer-yildiz
+  title:      Software Developer
+  working:    true
+  github:     haggucan
+
 hasansama:
   name:       Hasan Şama
   avatar:     hasansama.jpg
