@@ -51,7 +51,7 @@ Options
 : Bu bölüm IDE ile alakalı ayarlamaların yapıldığı ve varsayılan IDE dilini herhangi bir dile çevirme imkanının bulunduğu bölümdür.
 
 Options > Options
-: Karakter kodlaması ve Selenium komutlarında “*Wait” komutu için milisaniye cinsinden sürenin belirlenmesi bu kısımda yapılır. Varsayılan bekleme süresi “30.000 ms = 30 sn” dir. Ayrıca Bu kısımda kişisel JavaScript’lerinizide yükleyebilirsiniz.
+: Karakter kodlaması ve Selenium komutlarında "Wait" komutu için milisaniye cinsinden sürenin belirlenmesi bu kısımda yapılır. Varsayılan bekleme süresi “30.000 ms = 30 sn” dir. Ayrıca Bu kısımda kişisel JavaScript'lerinizi de yükleyebilirsiniz.
 
 Options > Format
 : Selenium scriptlerini HTML dilinden başka herhangi bir dile çevirmek için kullanılır.
@@ -175,7 +175,7 @@ Selenium IDE ile kayıda başlayıp www.sahibinden.com ’un Anasayfası’ndaki
 
 Bu Path kayıt sırasında otomatik olarak yazılır fakat istikrarlı çalışmamaktadır çünkü sitenin farklı bir sayfasında aynı linke tıklamak istediğinizde divler ya da tablollarda kayma olursa yol bulunamaz. Dolayısıyla şöyle bir ifade kullanmak daha mantıklıdır;
 
-Xpath=//*/a[@title='Acil Acil']
+    Xpath=//*/a[@title='Acil Acil']
 
 Bu şekilde yazılan bir Locator şu anlama gelmektedir. HTML bloğunun herhangi bir yerindeki linkin title’lı “Acil Acil” olan ifadedir. Alternatif olarak HTML ağacında yukarı ve aşağıya gidilebilir. Xpath Locator olarak class, id, name, title, span, a, div, type, ul, li gibi ifadelerini tanıyabilmektedir fakat farklı isimlere sahip olmasına rağmen mesela id gibi nitelikleri aynı ise HTML ağacında ilk başta geleni almaktadır. Bu yüzden Locator’a uniqe (sadece ona ait olan) bir nitelik belirtmek gerekir.
 
@@ -189,11 +189,11 @@ Selenium IDE kullanırken Xpath yerine CSS Locator ifadeleri yazıyoruz. Yine ww
 
 Buradaki (.)nokta class olduğunu boxContent class ismini, a ise ağacın altındaki linki belirtir. Diyelim ki yukarıdaki HTML ağacında “ul privateCats” in altındaki 3. li ‘nin altındaki linke gitmek istediğimde
 
-CSS=.cats privateCats li + li + li a yazmamız gerekiyor. Xpath’le yine 3. li ‘ye ulaşmak istersek Xpath=//*/ul[@class='cats privateCats']/li[3]/a
+CSS=.cats privateCats li + li + li a yazmamız gerekiyor. Xpath’le yine 3. li'ye ulaşmak istersek `Xpath=//*/ul[@class='cats privateCats']/li[3]/a`
 
 Önemli bir nokta var, buradaki “3″, sayfa değiştikçe değişebilir. Yani farklı bir sayfada 5 tane li yazmak gerekebilir. Bu yüzden böyle bir path kullanmak sakıncalıdır.
 
-Bunun yerine Xpath=//*/a[@title='Top 100] ya da CSS=a[title=Top 100] yazmalıyız. Bu noktada CSS “Where” (Nerede) sorgusuna cevap verir ama test ortamında kararlı çalışmaz.
+Bunun yerine `Xpath=//*/a[@title='Top 100]` ya da `CSS=a[title=Top 100]` yazmalıyız. Bu noktada CSS “Where” (Nerede) sorgusuna cevap verir ama test ortamında kararlı çalışmaz.
 
 ### Selenium IDE Link Locator nedir, nasıl çalışır?
 
@@ -201,7 +201,7 @@ Xpath ve CSS Locator’un çalışmadığı zamanlarda kullanılır. Her zaman k
 
 Selenium IDE kullanırken Xpath yerine Link Locator ifadeleri yazıyoruz. Yine www.sahibinden.com ’un anasayfasındaki acil acil linkini tıkladığınızda Xpath ile
 
-Xpath=//*/a[@title='Acil Acil'] yazmak yerine Link=Acil Acil yazıyoruz.
+    Xpath=//*/a[@title='Acil Acil'] yazmak yerine Link=Acil Acil yazıyoruz.
 
 ## Selenium IDE DOM (Data Object Model)
 

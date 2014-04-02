@@ -13,11 +13,11 @@ Türk internet kullanıcılarının nabzını tutmaya devam ediyoruz. İşte Sah
 
 ![][1]
 
-Mart ayında tarayıcı kullanım oranalarındaki harekette, genel tabloda çok şaşırtıcı bir gelişm eolmadı. Tüm **Internet Explorer** versiyonlarının toplam kullanım oranı düşmeye devam ederek **%45,21**‘e geriledi. **Chrome** ise 10 aylık yükselişini sürdürerek **%36,36**‘ya yükseldi. Küçük ama istikrarlı düşüşüne devam eden **Firefox** **%13,02**‘ye gerilerken, alt sıralarda sessiz sedasız ilerleyen **Safari %2,81**, **Opera **ise** %0,79**‘da kaldı.
+Mart ayında tarayıcı kullanım oranalarındaki harekette, genel tabloda çok şaşırtıcı bir gelişm eolmadı. Tüm **Internet Explorer** versiyonlarının toplam kullanım oranı düşmeye devam ederek **%45,21**‘e geriledi. **Chrome** ise 10 aylık yükselişini sürdürerek **%36,36**‘ya yükseldi. Küçük ama istikrarlı düşüşüne devam eden **Firefox %13,02**‘ye gerilerken, alt sıralarda sessiz sedasız ilerleyen **Safari %2,81**, **Opera** ise **%0,79**‘da kaldı.
 
 ![][2]
 
-Tarayıcı kullanım oranlarında asıl şaşırtıcı hareketlenme Internet Explorer 9 ve 8′deki değişimde yaşandı. Bu ay büyük bir sıçrama yapan **Internet Explorer 9** kullanım oranını yaklaşık %3 oranında artırarak **%15,33**‘e yükseltirken, **Internet Explorer 8** ise derin bir düşüşle **%23,99**‘a geriledi. Düşüş hızı yavaşlayarak kullanım oranı gerilemeye devam eden **IE7** **%5,25**‘e geriledi. **IE6**‘nın kullanım oranı ise **%0,63**.
+Tarayıcı kullanım oranlarında asıl şaşırtıcı hareketlenme Internet Explorer 9 ve 8'deki değişimde yaşandı. Bu ay büyük bir sıçrama yapan **Internet Explorer 9** kullanım oranını yaklaşık %3 oranında artırarak **%15,33**‘e yükseltirken, **Internet Explorer 8** ise derin bir düşüşle **%23,99**‘a geriledi. Düşüş hızı yavaşlayarak kullanım oranı gerilemeye devam eden **IE7 %5,25**‘e geriledi. **IE6**‘nın kullanım oranı ise **%0,63**.
 
 ![][3]
 

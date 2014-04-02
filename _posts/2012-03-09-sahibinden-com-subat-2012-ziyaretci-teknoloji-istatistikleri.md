@@ -17,7 +17,7 @@ Tarayıcı kullanım oranlarındaki değişim son 8 aydaki periyotta devam ediyo
 
 ![][3]
 
-Tüm versiyonları toplandığında hâlâ en çok kullanılan tarayıcı olan Internet Explorer’ın versiyonlarındaki dağılımda da son 8 aydaki değişimde şubat ayında da bir hareketlenme olmadı. IE 6, IE 7 ve IE 8′de düşüş devam ederken, IE 9′da yükselme devam etti. **IE 6 %0,76**‘ya,** IE 7 %5,74**‘e ve **IE 8 de %28,30**‘a gerilerken, **IE 9 ise %12,09**‘a yükseldi.
+Tüm versiyonları toplandığında hâlâ en çok kullanılan tarayıcı olan Internet Explorer’ın versiyonlarındaki dağılımda da son 8 aydaki değişimde şubat ayında da bir hareketlenme olmadı. IE 6, IE 7 ve IE 8′de düşüş devam ederken, IE 9′da yükselme devam etti. **IE 6 %0,76**‘ya, **IE 7 %5,74**‘e ve **IE 8 de %28,30**‘a gerilerken, **IE 9 ise %12,09**‘a yükseldi.
 
 ![][4]
 

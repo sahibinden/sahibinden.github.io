@@ -26,4 +26,20 @@ $('#site-nav').click(function(event){
 // FitVids options
 $(function() {
 	$("article").fitVids();
+
+  var colorMatches = {};
+
+  $('table.chart').each(function () {
+    var data = {},
+        colors = ['#36C', '#DC3912', '#F90', '#109618', '#909', '#0099C6', '#D47', '#6A0', '#434343', '#666', '#999', '#B7B7B7', '#CCC', '#D9D9D9', '#D9D9D9', '#D9D9D9', '#D9D9D9', '#D9D9D9'];
+
+    $(this).find('tbody tr').each(function () {
+      var value = parseFloat($(this).find('td:nth-child(2)').text());
+
+      $(this).append('<td class="bar-chart"><div style="width: ' + value + '%; background-color: ' + colors.shift() + ';"></div></td>');
+    });
+
+    // $(this).after(createPie("pieName",'200px',"#FFFFFF",percentages.length,percentages,colors));
+  });
+
 });

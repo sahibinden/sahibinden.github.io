@@ -21,7 +21,7 @@ Internet Explorer versiyonlarında, IE9 haricindeki tüm versiyonlarda hızlı d
 
 ![][3]
 
-İşletim sistemlerinde bir sürpriz yok ancak Windows’un kullanım oranını daha da yükselttiğini görüyoruz. Mobil cihazların kullanım oranlarının bile gerisinde kalan MacOS ve Linux işletim sistemleri daha da geriledi ve **MacOS %0,76**, **Linux** ise **%0,15** kullanım oranlarında kaldılar. **Windows**‘un kullanım oranı ise** %96,22**.
+İşletim sistemlerinde bir sürpriz yok ancak Windows’un kullanım oranını daha da yükselttiğini görüyoruz. Mobil cihazların kullanım oranlarının bile gerisinde kalan MacOS ve Linux işletim sistemleri daha da geriledi ve **MacOS %0,76**, **Linux** ise **%0,15** kullanım oranlarında kaldılar. **Windows**‘un kullanım oranı ise **%96,22**.
 
 ![][4]
 

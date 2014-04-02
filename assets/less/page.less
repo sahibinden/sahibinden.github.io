@@ -526,3 +526,25 @@ span + .entry-title {
 		color: @black;
 	}
 }
+
+table td,
+table th {
+	padding: 0 10px;
+}
+
+table tr:nth-child(odd) td {
+	background-color: #efefef;
+}
+
+table.chart {
+	width: 100%;
+
+	.bar-chart {
+		width: 300px;
+
+		div {
+			height: 20px;
+			border: solid 1px #efefef;
+		}
+	}
+}
