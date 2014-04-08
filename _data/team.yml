@@ -36,6 +36,14 @@ cenkebret:
   working:    true
   twitter:    cenkingunlugu
 
+cenkhasirlioglu:
+  name:       Cenk Hasirlioglu
+  avatar:     cenkhasirlioglu.jpg
+  permalink:  cenk-hasirlioglu
+  title:      Director, System Administration & Engineering Operations
+  working:    true
+  github:     eiknuj
+  
 dorukozalp:
   name:       Doruk Özalp
   avatar:     dorukozalp.jpg
