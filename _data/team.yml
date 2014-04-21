@@ -11,10 +11,17 @@ berkayaktan:
   title:      Software Development Team Lead
   working:    true
 
+burakergoren:
+  name:       Burak Ergören
+  avatar:     burakergoren.jpg
+  permalink:  burak-ergoren
+  title:      Junior QA Analyst
+  working:    true
+
 canyildirim:
   name:       Can Yıldırım
   avatar:     canyildirim.jpg
-  permalink:  cenk-ebret
+  permalink:  can-yildirim
   title:      QA Intern
   working:    true
   twitter:    cyildirim_
@@ -37,6 +44,13 @@ ermanceylan:
   twitter:    ermancey
   github:     eceylan
 
+esrakose:
+  name:       Esra Köse
+  avatar:     esrakose.jpg
+  permalink:  esra-kose
+  working:    true
+  title:      QA Analyst
+
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
   avatar:     fatihhayrioglu.jpg
@@ -51,6 +65,13 @@ guvendemir:
   avatar:     guvendemir.jpg
   permalink:  guven-demir
   title:      Chief Architect
+  working:    true
+
+hilalrakici:
+  name:       Hilal Rakıcı
+  avatar:     hilalrakici.jpg
+  permalink:  hilal-rakici
+  title:      Junior QA Analyst
   working:    true
 
 ismailatakurt:
@@ -69,6 +90,21 @@ muratcorlu:
   twitter:    muratcorlu
   github:     muratcorlu
 
+muratmercan:
+  name:       Murat Mercan
+  avatar:     muratmercan.jpg
+  permalink:  murat-mercan
+  working:    true
+  title:      QA Analyst
+
+mustafaerturk:
+  name:       Mustafa Ertürk
+  avatar:     mustafaerturk.jpg
+  permalink:  mustafa-erturk
+  working:    true
+  title:      QA Analyst
+
+
 mustafapaltun:
   name:       Mustafa Paltun
   avatar:     mustafapaltun.jpg
@@ -77,6 +113,14 @@ mustafapaltun:
   title:      Developer
   twitter:    mpaltun
   github:     bin5
+
+ozgurbasakbirol:
+  name:       Özgür Başak Birol
+  avatar:     ozgurbasakbirol.jpg
+  permalink:  ozgur-basak-birol
+  title:      QA Team Lead
+  working:    true
+
 
 sercaneraslan:
   name:       Sercan Eraslan
