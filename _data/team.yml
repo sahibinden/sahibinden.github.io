@@ -19,10 +19,17 @@ berkayaktan:
   title:      Software Development Team Lead
   working:    true
 
+burakergoren:
+  name:       Burak Ergören
+  avatar:     burakergoren.jpg
+  permalink:  burak-ergoren
+  title:      Junior QA Analyst
+  working:    true
+
 canyildirim:
   name:       Can Yıldırım
   avatar:     canyildirim.jpg
-  permalink:  cenk-ebret
+  permalink:  can-yildirim
   title:      QA Intern
   working:    true
   twitter:    cyildirim_
@@ -43,7 +50,7 @@ cenkhasirlioglu:
   title:      Director, System Administration & Engineering Operations
   working:    true
   github:     eiknuj
-  
+
 dorukozalp:
   name:       Doruk Özalp
   avatar:     dorukozalp.jpg
@@ -80,6 +87,13 @@ ertugkaramatli:
   twitter:    ertug
   github:     ertug
 
+esrakose:
+  name:       Esra Köse
+  avatar:     esrakose.jpg
+  permalink:  esra-kose
+  working:    true
+  title:      QA Analyst
+
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
   avatar:     fatihhayrioglu.jpg
@@ -104,6 +118,13 @@ hasansama:
   working:    true
   twitter:    hasansama
   github:     hasansama
+
+hilalrakici:
+  name:       Hilal Rakıcı
+  avatar:     hilalrakici.jpg
+  permalink:  hilal-rakici
+  title:      Junior QA Analyst
+  working:    true
 
 ibrahimuzel:
   name:       İbrahim Uzel
@@ -153,6 +174,21 @@ muratcorlu:
   github:     muratcorlu
   googlePlus: https://plus.google.com/+MuratÇorlu
 
+muratmercan:
+  name:       Murat Mercan
+  avatar:     muratmercan.jpg
+  permalink:  murat-mercan
+  working:    true
+  title:      QA Analyst
+
+mustafaerturk:
+  name:       Mustafa Ertürk
+  avatar:     mustafaerturk.jpg
+  permalink:  mustafa-erturk
+  working:    true
+  title:      QA Analyst
+
+
 mustafapaltun:
   name:       Mustafa Paltun
   avatar:     mustafapaltun.jpg
@@ -178,6 +214,13 @@ onurtokgoz:
   working:    true
   title:      DRC
   twitter:    silhouette81
+
+ozgurbasakbirol:
+  name:       Özgür Başak Birol
+  avatar:     ozgurbasakbirol.jpg
+  permalink:  ozgur-basak-birol
+  title:      QA Team Lead
+  working:    true
 
 ramazanaslan:
   name:       Ramazan Aslan
