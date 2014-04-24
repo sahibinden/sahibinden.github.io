@@ -68,6 +68,15 @@ emrekucukayvaz:
   working:    true
   twitter:    emrekyv
   github:     emrekyv
+  
+erdinckocaman:
+  name:       Erdinç Kocaman
+  avatar:     erdinckocaman.jpg
+  permalink:  erdinc-kocaman
+  working:    true
+  title:      Principal Software Developer
+  twitter:    erdinckocaman
+  github:     erdinckocaman
 
 ermanceylan:
   name:       Erman Ceylan
