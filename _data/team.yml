@@ -6,6 +6,13 @@ ardacakiroglu:
   github:     ardaolca
   title:      Software Engineer
 
+aykutuysal:
+  name:       Aykut Uysal
+  avatar:     aykutuysal.jpg
+  permalink:  aykut-uysal
+  working:    true
+  title:      Software Developer
+
 barisguzelordu:
   name:       Barış Güzelordu
   avatar:     barisguzelordu.jpg
@@ -68,7 +75,7 @@ emrekucukayvaz:
   working:    true
   twitter:    emrekyv
   github:     emrekyv
-  
+
 erdinckocaman:
   name:       Erdinç Kocaman
   avatar:     erdinckocaman.jpg
@@ -117,6 +124,13 @@ guvendemir:
   avatar:     guvendemir.jpg
   permalink:  guven-demir
   title:      Chief Architect
+  working:    true
+
+hakaniyice:
+  name:       Hakan İyice
+  avatar:     hakaniyice.jpg
+  permalink:  hakan-iyice
+  title:      Software Developer
   working:    true
 
 hasansama:
