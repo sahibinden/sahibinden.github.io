@@ -232,7 +232,6 @@ mustafaerturk:
   working:    true
   title:      QA Analyst
 
-
 mustafapaltun:
   name:       Mustafa Paltun
   avatar:     mustafapaltun.jpg
@@ -241,6 +240,13 @@ mustafapaltun:
   title:      Developer
   twitter:    mpaltun
   github:     bin5
+
+necatiustundag:
+  name:       Necati Üstündağ
+  avatar:     necatiustundag.jpg
+  permalink:  necati-ustundag
+  working:    true
+  title:      Senior Frontend Developer
 
 ozgurorhan:
   name:       Özgür Orhan
