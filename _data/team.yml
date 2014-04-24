@@ -1,3 +1,10 @@
+akifarsoy:
+  name:       Akif Arsoy
+  avatar:     akifarsoy.jpg
+  permalink:  akif-arsoy
+  working:    true
+  title:      Engineering VP
+
 ardacakiroglu:
   name:       Arda Çakıroğlu
   avatar:     ardacakiroglu.jpg
@@ -12,6 +19,13 @@ aykutuysal:
   permalink:  aykut-uysal
   working:    true
   title:      Software Developer
+
+bahadirgurpinar:
+  name:       Bahadır Gürpınar
+  avatar:     bahadirgurpinar.jpg
+  permalink:  bahadir-gurpinar
+  title:      Senior Software Developer
+  working:    true
 
 barisguzelordu:
   name:       Barış Güzelordu
