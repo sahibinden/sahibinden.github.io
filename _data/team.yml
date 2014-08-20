@@ -256,15 +256,6 @@ necatiustundag:
   working:    true
   title:      Senior Frontend Developer
 
-ozgurorhan:
-  name:       Özgür Orhan
-  avatar:     ozgurorhan.jpeg
-  permalink:  ozgur-orhan
-  working:    true
-  title:      Big Data Engineer
-  twitter:    ozbuyucusu
-  github:     frail
-
 onurtokgoz:
   name:       Onur Tokgöz
   avatar:     onurtokgoz.jpg
@@ -281,12 +272,30 @@ osmancetin:
   title:      Software Developer
   twitter:    osman_cetin
 
+onderceylan:
+  name:       Önder Ceylan
+  avatar:     onderceylan.jpg
+  permalink:  onder-ceylan
+  working:    true
+  title:      Senior Frontend Developer
+  twitter:    onderceylan
+  github:     onderceylan
+
 ozgurbasakbirol:
   name:       Özgür Başak Birol
   avatar:     ozgurbasakbirol.jpg
   permalink:  ozgur-basak-birol
   title:      QA Team Lead
   working:    true
+
+ozgurorhan:
+  name:       Özgür Orhan
+  avatar:     ozgurorhan.jpeg
+  permalink:  ozgur-orhan
+  working:    true
+  title:      Big Data Engineer
+  twitter:    ozbuyucusu
+  github:     frail
 
 ramazanaslan:
   name:       Ramazan Aslan
