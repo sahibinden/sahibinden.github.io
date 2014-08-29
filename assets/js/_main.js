@@ -42,4 +42,15 @@ $(function() {
     // $(this).after(createPie("pieName",'200px',"#FFFFFF",percentages.length,percentages,colors));
   });
 
+  var entryContentDiv = $('.entry-content');
+  if (entryContentDiv) {
+    var entryWrapper = entryContentDiv.parents('.entry-wrapper'),
+      takeMetaOnScreen = function () {
+        entryWrapper.toggleClass('scroll-overlap', document.body.scrollTop > entryContentDiv.position().top);
+      };
+
+    $(window).on('scroll', takeMetaOnScreen);
+
+    takeMetaOnScreen();
+  }
 });
