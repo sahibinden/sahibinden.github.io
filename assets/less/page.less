@@ -307,18 +307,20 @@ span + .entry-title {
 }
 
 @media @large {
-	.scroll-overlap {
-		.entry-meta {
-			position: fixed;
-			top: 10px;
+	#post {
+		.scroll-overlap {
+			.entry-meta {
+				position: fixed;
+				top: 10px;
+			}
+			.entry-content {
+				margin-left: 190px;
+			}
 		}
-		.entry-content {
-			margin-left: 190px;
-		}
-	}
-	.post-list {
-		li > a {
-			border-bottom-width: 0;
+		.post-list {
+			li > a {
+				border-bottom-width: 0;
+			}
 		}
 	}
 }
