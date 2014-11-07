@@ -51,7 +51,7 @@ canyildirim:
   name:       Can Yıldırım
   avatar:     canyildirim.jpg
   permalink:  can-yildirim
-  title:      QA Intern
+  title:      Junior QA Specialist
   working:    true
   twitter:    cyildirim_
   github:     cyildirim
@@ -71,6 +71,13 @@ cenkhasirlioglu:
   title:      Director, System Administration & Engineering Operations
   working:    true
   github:     eiknuj
+
+cerensaricam:
+  name:       Ceren Sarıçam
+  avatar:     cerensaricam.jpg
+  permalink:  ceren-saricam
+  title:      QA Specialist
+  working:    true
 
 dorukozalp:
   name:       Doruk Özalp
@@ -117,10 +124,10 @@ ertugkaramatli:
 
 esrakose:
   name:       Esra Köse
-  avatar:     esrakose.jpg
+  avatar:     esrakose.jpeg
   permalink:  esra-kose
   working:    true
-  title:      QA Analyst
+  title:      QA Specialist
 
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
@@ -222,14 +229,14 @@ muratmercan:
   avatar:     muratmercan.jpg
   permalink:  murat-mercan
   working:    true
-  title:      QA Analyst
+  title:      QA Specialist
 
 mustafaerturk:
   name:       Mustafa Ertürk
   avatar:     mustafaerturk.jpg
   permalink:  mustafa-erturk
   working:    true
-  title:      QA Analyst
+  title:      QA Specialist
 
 mustafapaltun:
   name:       Mustafa Paltun
@@ -300,7 +307,7 @@ savasavcu:
   name:       Savaş Avcu
   avatar:     savasavcu.jpg
   permalink:  savas-avcu
-  title:      Senior QA Analyst
+  title:      Senior QA Specialist
   working:    true
   twitter:    savasavcu
   github:     savasavcu
