@@ -1,3 +1,10 @@
+akifarsoy:
+  name:       Akif Arsoy
+  avatar:     akifarsoy.jpg
+  permalink:  akif-arsoy
+  working:    true
+  title:      Engineering VP
+
 ardacakiroglu:
   name:       Arda Çakıroğlu
   avatar:     ardacakiroglu.jpg
@@ -5,6 +12,20 @@ ardacakiroglu:
   working:    true
   github:     ardaolca
   title:      Software Engineer
+
+aykutuysal:
+  name:       Aykut Uysal
+  avatar:     aykutuysal.jpg
+  permalink:  aykut-uysal
+  working:    true
+  title:      Software Developer
+
+bahadirgurpinar:
+  name:       Bahadır Gürpınar
+  avatar:     bahadirgurpinar.jpg
+  permalink:  bahadir-gurpinar
+  title:      Senior Software Developer
+  working:    true
 
 barisguzelordu:
   name:       Barış Güzelordu
@@ -60,14 +81,21 @@ dorukozalp:
   twitter:    dorukozalp
   github:     dorukozalp
 
-emrekucukayvaz:
-  name:       Emre Küçükayvaz
-  avatar:     emrekucukayvaz.jpg
-  permalink:  emre-kucukayvaz
-  title:      Mobile Applications Team Lead
+elifturpcu:
+  name:       Elif Turpçu
+  avatar:     elifturpcu.jpg
+  permalink:  elif-turpcu
+  title:      Software Development Team Lead
   working:    true
-  twitter:    emrekyv
-  github:     emrekyv
+
+erdinckocaman:
+  name:       Erdinç Kocaman
+  avatar:     erdinckocaman.jpg
+  permalink:  erdinc-kocaman
+  working:    true
+  title:      Principal Software Developer
+  twitter:    erdinckocaman
+  github:     erdinckocaman
 
 ermanceylan:
   name:       Erman Ceylan
@@ -103,12 +131,34 @@ fatihhayrioglu:
   twitter:    fatihhayri
   github:     fatihhayri
 
+gokhanergul:
+  name:       Gökhan Ergül
+  avatar:     gokhanergul.jpg
+  permalink:  gokhan-ergul
+  title:      CTO
+  working:    true
+
 guvendemir:
   name:       Güven Demir
   avatar:     guvendemir.jpg
   permalink:  guven-demir
   title:      Chief Architect
   working:    true
+
+hakaniyice:
+  name:       Hakan İyice
+  avatar:     hakaniyice.jpg
+  permalink:  hakan-iyice
+  title:      Software Developer
+  working:    true
+
+hakansenceryildiz:
+  name:       Hakan Sencer Yıldız
+  avatar:     hakansenceryildiz.jpg
+  permalink:  hakansencer-yildiz
+  title:      Software Developer
+  working:    true
+  github:     haggucan
 
 hasansama:
   name:       Hasan Şama
@@ -118,13 +168,6 @@ hasansama:
   working:    true
   twitter:    hasansama
   github:     hasansama
-
-hilalrakici:
-  name:       Hilal Rakıcı
-  avatar:     hilalrakici.jpg
-  permalink:  hilal-rakici
-  title:      Junior QA Analyst
-  working:    true
 
 ibrahimuzel:
   name:       İbrahim Uzel
@@ -188,7 +231,6 @@ mustafaerturk:
   working:    true
   title:      QA Analyst
 
-
 mustafapaltun:
   name:       Mustafa Paltun
   avatar:     mustafapaltun.jpg
@@ -198,14 +240,12 @@ mustafapaltun:
   twitter:    mpaltun
   github:     bin5
 
-ozgurorhan:
-  name:       Özgür Orhan
-  avatar:     ozgurorhan.jpeg
-  permalink:  ozgur-orhan
+necatiustundag:
+  name:       Necati Üstündağ
+  avatar:     necatiustundag.jpg
+  permalink:  necati-ustundag
   working:    true
-  title:      Big Data Engineer
-  twitter:    ozbuyucusu
-  github:     frail
+  title:      Senior Frontend Developer
 
 onurtokgoz:
   name:       Onur Tokgöz
@@ -215,12 +255,38 @@ onurtokgoz:
   title:      DRC
   twitter:    silhouette81
 
+osmancetin:
+  name:       Osman Çetin
+  avatar:     osmancetin.jpg
+  permalink:  osman-cetin
+  working:    true
+  title:      Software Developer
+  twitter:    osman_cetin
+
+onderceylan:
+  name:       Önder Ceylan
+  avatar:     onderceylan.jpg
+  permalink:  onder-ceylan
+  working:    true
+  title:      Senior Frontend Developer
+  twitter:    onderceylan
+  github:     onderceylan
+
 ozgurbasakbirol:
   name:       Özgür Başak Birol
   avatar:     ozgurbasakbirol.jpg
   permalink:  ozgur-basak-birol
   title:      QA Team Lead
   working:    true
+
+ozgurorhan:
+  name:       Özgür Orhan
+  avatar:     ozgurorhan.jpeg
+  permalink:  ozgur-orhan
+  working:    true
+  title:      Big Data Engineer
+  twitter:    ozbuyucusu
+  github:     frail
 
 ramazanaslan:
   name:       Ramazan Aslan
@@ -254,11 +320,3 @@ serkancapkan:
   permalink:  serkan-capkan
   working:    false
 
-tolgabeser:
-  name:       Tolga Beşer
-  avatar:     tolgabeser.jpg
-  permalink:  tolga-beser
-  title:      Software Developer
-  working:    true
-  twitter:    tolgabeser
-  github:     tolgabeser

@@ -305,11 +305,26 @@ span + .entry-title {
 		}
 	}
 }
-.post-list {
-	li > a {
-		border-bottom-width: 0;
+
+@media @large {
+	#post {
+		.scroll-overlap {
+			.entry-meta {
+				position: fixed;
+				top: 10px;
+			}
+			.entry-content {
+				margin-left: 190px;
+			}
+		}
+		.post-list {
+			li > a {
+				border-bottom-width: 0;
+			}
+		}
 	}
 }
+
 .team-list {
 	list-style: none;
 	margin: 0;
