@@ -237,17 +237,7 @@ mustafaerturk:
   permalink:  mustafa-erturk
   working:    true
   title:      QA Specialist
-
-mustafapaltun:
-  name:       Mustafa Paltun
-  avatar:     mustafapaltun.jpg
-  permalink:  mustafa-paltun
-  working:    true
-  title:      Developer
-  twitter:    mpaltun
-  github:     bin5
-  working:    false
-
+  
 necatiustundag:
   name:       Necati Üstündağ
   avatar:     necatiustundag.jpg
