@@ -52,15 +52,15 @@ Mixin ve fonksiyon kullanımı da, CSS'de benzer fakat küçük farklılara sahi
 
 {% highlight css %}
 .widget {
-    border-radius 5px
-    border-color #336699
-    border-size 5px
+    border-radius: 5px;
+    border-color: #336699;
+    border-size: 5px;
 }
 
 .welcome {
-    border-radius 15px
-    border-color #333
-    border-size 15px
+    border-radius: 15px;
+    border-color: #333;
+    border-size: 15px;
 }
 {% endhighlight %}
 
