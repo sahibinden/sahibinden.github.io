@@ -134,7 +134,7 @@ fatihhayrioglu:
   avatar:     fatihhayrioglu.jpg
   permalink:  fatih-hayrioglu
   title:      Senior Frontend Developer
-  working:    true
+  working:    false
   twitter:    fatihhayri
   github:     fatihhayri
 
@@ -150,13 +150,6 @@ guvendemir:
   avatar:     guvendemir.jpg
   permalink:  guven-demir
   title:      Chief Architect
-  working:    true
-
-hakaniyice:
-  name:       Hakan İyice
-  avatar:     hakaniyice.jpg
-  permalink:  hakan-iyice
-  title:      Software Developer
   working:    true
 
 hakansenceryildiz:
@@ -269,13 +262,6 @@ onderceylan:
   title:      Senior Frontend Developer
   twitter:    onderceylan
   github:     onderceylan
-
-ozgurbasakbirol:
-  name:       Özgür Başak Birol
-  avatar:     ozgurbasakbirol.jpg
-  permalink:  ozgur-basak-birol
-  title:      QA Team Lead
-  working:    true
 
 ozgurorhan:
   name:       Özgür Orhan
