@@ -20,13 +20,6 @@ aykutuysal:
   working:    true
   title:      Software Developer
 
-bahadirgurpinar:
-  name:       Bahadır Gürpınar
-  avatar:     bahadirgurpinar.jpg
-  permalink:  bahadir-gurpinar
-  title:      Senior Software Developer
-  working:    true
-
 barisguzelordu:
   name:       Barış Güzelordu
   avatar:     barisguzelordu.jpg
@@ -46,15 +39,6 @@ burakergoren:
   permalink:  burak-ergoren
   title:      Junior QA Analyst
   working:    true
-
-canyildirim:
-  name:       Can Yıldırım
-  avatar:     canyildirim.jpg
-  permalink:  can-yildirim
-  title:      Junior QA Specialist
-  working:    true
-  twitter:    cyildirim_
-  github:     cyildirim
 
 cenkebret:
   name:       Cenk Ebret
@@ -198,20 +182,11 @@ merttolon:
   title:      Software Development Team Lead
   working:    true
 
-mkatircioglu:
-  name:       Mete Alpaslan Katırcıoğlu
-  avatar:     mkatircioglu.jpg
-  permalink:  mete-alpaslan-katircioglu
-  title:      Senior Software Engineer
-  working:    true
-  twitter:    metekatircioglu
-  github:     mkatircioglu
-
 muratcorlu:
   name:       Murat Çorlu
   avatar:     muratcorlu.jpg
   permalink:  murat-corlu
-  working:    true
+  working:    false
   title:      Principal Frontend Developer
   twitter:    muratcorlu
   github:     muratcorlu
@@ -222,7 +197,7 @@ muratmercan:
   avatar:     muratmercan.jpg
   permalink:  murat-mercan
   working:    true
-  title:      QA Specialist
+  title:      Software Test Automation Specialist
 
 mustafaerturk:
   name:       Mustafa Ertürk
