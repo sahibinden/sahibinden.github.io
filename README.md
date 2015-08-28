@@ -61,4 +61,6 @@ Bilgisayarınıza jekyll kurulumu yaptıktan sonra blogu klonladığınız klas�
 
 ## Fork'lanan deponun orjinal depoyla senkronize edilmesi
 
-Ayrıntılı bilgi için [Github dokümantasyonundaki ilgili sayfaya](https://help.github.com/articles/syncing-a-fork) bakılabilir.
+Ayrıntılı bilgi için [Github dokümantasyonundaki ilgili sayfaya](https://help.github.com/articles/syncing-a-fork) bakılabilir. Eğer "'upstream' does not appear to be a git repository" hatası alırsanız aşağıdaki komutu çalıştırınız.
+
+`remote add upstream https://github.com/sahibinden/sahibinden.github.io.git`
