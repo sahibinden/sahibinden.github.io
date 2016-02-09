@@ -9,7 +9,7 @@ ardacakiroglu:
   name:       Arda Çakıroğlu
   avatar:     ardacakiroglu.jpg
   permalink:  arda-cakiroglu
-  working:    true
+  working:    false
   github:     ardaolca
   title:      Software Engineer
 
@@ -30,7 +30,7 @@ berkayaktan:
   name:       Berkay Aktan
   avatar:     berkayaktan.jpg
   permalink:  berkay-aktan
-  title:      Software Development Team Lead
+  title:      Software Manager
   working:    true
 
 burakergoren:
@@ -44,7 +44,7 @@ cenkebret:
   name:       Cenk Ebret
   avatar:     cenkebret.jpg
   permalink:  cenk-ebret
-  title:      Senior Frontend Developer
+  title:      Principal Software Developer
   working:    true
   twitter:    cenkingunlugu
 
@@ -83,7 +83,7 @@ erdinckocaman:
   name:       Erdinç Kocaman
   avatar:     erdinckocaman.jpg
   permalink:  erdinc-kocaman
-  working:    true
+  working:    false
   title:      Principal Software Developer
   twitter:    erdinckocaman
   github:     erdinckocaman
@@ -111,7 +111,7 @@ esrakose:
   avatar:     esrakose.jpeg
   permalink:  esra-kose
   working:    true
-  title:      QA Specialist
+  title:      Senior QA Specialist
 
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
@@ -225,7 +225,7 @@ osmancetin:
   name:       Osman Çetin
   avatar:     osmancetin.jpg
   permalink:  osman-cetin
-  working:    true
+  working:    false
   title:      Software Developer
   twitter:    osman_cetin
 
@@ -233,7 +233,7 @@ onderceylan:
   name:       Önder Ceylan
   avatar:     onderceylan.jpg
   permalink:  onder-ceylan
-  working:    true
+  working:    false
   title:      Senior Frontend Developer
   twitter:    onderceylan
   github:     onderceylan
@@ -251,7 +251,7 @@ ramazanaslan:
   name:       Ramazan Aslan
   avatar:     ramazanaslan.jpg
   permalink:  ramazanaslan82
-  title:      Software Team Lead
+  title:      Principal Software Developer
   working:    true
   github:     ramazanaslan82
 
