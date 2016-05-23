@@ -17,7 +17,7 @@ aykutuysal:
   name:       Aykut Uysal
   avatar:     aykutuysal.jpg
   permalink:  aykut-uysal
-  working:    true
+  working:    false
   title:      Software Developer
 
 barisguzelordu:
@@ -141,7 +141,7 @@ hakansenceryildiz:
   avatar:     hakansenceryildiz.jpg
   permalink:  hakansencer-yildiz
   title:      Software Developer
-  working:    true
+  working:    false
   github:     haggucan
 
 hasansama:
@@ -242,7 +242,7 @@ ozgurorhan:
   name:       Özgür Orhan
   avatar:     ozgurorhan.jpeg
   permalink:  ozgur-orhan
-  working:    true
+  working:    false
   title:      Big Data Engineer
   twitter:    ozbuyucusu
   github:     frail
