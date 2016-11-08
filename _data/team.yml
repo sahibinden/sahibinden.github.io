@@ -198,14 +198,6 @@ muratmercan:
   permalink:  murat-mercan
   working:    true
   title:      Software Test Automation Specialist
-  
-muratozturk:
-  name:       Murat Öztürk
-  avatar:     muratozturk.jpg
-  permalink:  murat-ozturk
-  title:      Senior Software Developer
-  working:    true
-  github:     muratovic
 
 mustafaerturk:
   name:       Mustafa Ertürk
