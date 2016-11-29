@@ -37,15 +37,24 @@ burakergoren:
   name:       Burak Ergören
   avatar:     burakergoren.jpg
   permalink:  burak-ergoren
-  title:      Junior QA Analyst
+  title:      QA Analyst
   working:    true
+
+canyildirim:
+  name:       Can Yıldırım
+  avatar:     canyildirim.jpg
+  permalink:  can-yildirim
+  title:      QA Analyst
+  working:    true
+  twitter:    cyildirim_
+  github:     cyildirim
 
 cenkebret:
   name:       Cenk Ebret
   avatar:     cenkebret.jpg
   permalink:  cenk-ebret
   title:      Principal Software Developer
-  working:    true
+  working:    false
   twitter:    cenkingunlugu
 
 cenkhasirlioglu:
