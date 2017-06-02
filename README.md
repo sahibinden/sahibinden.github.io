@@ -8,7 +8,7 @@ Sahibinden çalışanı iseniz;
 
 1. Bu depoyu forklayın.
 2. Forkladığınız depoyu bilgisayarınıza klonlayın.
-3. `images/avatars` klasörüne `adinizsoyadiniz.jpg` şeklinde dosya adıyla, kare boyutunda, en az 150 piksel boyutunda bir avatar ekleyin.
+3. `images/avatars` klasörüne `adinizsoyadiniz.jpg` şeklinde dosya adıyla, kare boyutunda, en az 200x200 piksel boyutunda bir avatar ekleyin.
 4. `_data/team.yml` dosyasındaki alfabetik listenin uygun sırasına kendi kullanıcı bilgilerinizi ekleyin. Girilecek bilgilerle ilgili ayrıntılı açıklamaları aşağıdaki "Yazar bilgileri ayrıntıları" bölümünde bulabilirsiniz.
 
 Sahibinden çalışanı değilseniz;
@@ -63,4 +63,4 @@ Bilgisayarınıza jekyll kurulumu yaptıktan sonra blogu klonladığınız klas�
 
 Ayrıntılı bilgi için [Github dokümantasyonundaki ilgili sayfaya](https://help.github.com/articles/syncing-a-fork) bakılabilir. Eğer "'upstream' does not appear to be a git repository" hatası alırsanız aşağıdaki komutu çalıştırınız.
 
-`remote add upstream https://github.com/sahibinden/sahibinden.github.io.git`
+`git remote add upstream https://github.com/sahibinden/sahibinden.github.io.git`

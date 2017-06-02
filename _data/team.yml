@@ -37,7 +37,7 @@ burakergoren:
   name:       Burak Ergören
   avatar:     burakergoren.jpg
   permalink:  burak-ergoren
-  title:      QA Analyst
+  title:      QA Specialist
   working:    true
 
 canyildirim:
@@ -76,7 +76,7 @@ dorukozalp:
   name:       Doruk Özalp
   avatar:     dorukozalp.jpg
   permalink:  doruk-ozalp
-  title:      Senior Software Developer
+  title:      Principal Software Developer
   working:    true
   twitter:    dorukozalp
   github:     dorukozalp
@@ -85,7 +85,7 @@ elifturpcu:
   name:       Elif Turpçu
   avatar:     elifturpcu.jpg
   permalink:  elif-turpcu
-  title:      Software Development Team Lead
+  title:      Software Manager
   working:    true
 
 erdinckocaman:
@@ -102,7 +102,7 @@ ermanceylan:
   avatar:     ermanceylan.jpg
   permalink:  erman-ceylan
   working:    true
-  title:      Frontend Developer
+  title:      Senior Front-End Developer
   twitter:    ermancey
   github:     eceylan
 
@@ -126,7 +126,7 @@ fatihhayrioglu:
   name:       Fatih Hayrioğlu
   avatar:     fatihhayrioglu.jpg
   permalink:  fatih-hayrioglu
-  title:      Senior Frontend Developer
+  title:      Senior Front-End Developer
   working:    false
   twitter:    fatihhayri
   github:     fatihhayri
@@ -157,7 +157,7 @@ hasansama:
   name:       Hasan Şama
   avatar:     hasansama.jpg
   permalink:  hasan-sama
-  title:      Software Developer
+  title:      Senior Software Developer
   working:    true
   twitter:    hasansama
   github:     hasansama
@@ -173,7 +173,7 @@ ismailatakurt:
   name:       İsmail Ata Kurt
   avatar:     ismailatakurt.jpg
   permalink:  ismail-ata-kurt
-  title:      Developer
+  title:      Senior Software Developer
   working:    true
 
 kazimtarim:
@@ -197,7 +197,7 @@ merttolon:
   name:       Mert Tolon
   avatar:     merttolon.jpg
   permalink:  mert-tolon
-  title:      Software Development Team Lead
+  title:      Principal Software Developer
   working:    true
 
 muratcorlu:
@@ -205,7 +205,7 @@ muratcorlu:
   avatar:     muratcorlu.jpg
   permalink:  murat-corlu
   working:    false
-  title:      Principal Frontend Developer
+  title:      Principal Front-End Developer
   twitter:    muratcorlu
   github:     muratcorlu
   googlePlus: https://plus.google.com/+MuratÇorlu
@@ -222,14 +222,14 @@ mustafaerturk:
   avatar:     mustafaerturk.jpg
   permalink:  mustafa-erturk
   working:    true
-  title:      QA Specialist
+  title:      QA Team Lead
   
 necatiustundag:
   name:       Necati Üstündağ
   avatar:     necatiustundag.jpg
   permalink:  necati-ustundag
   working:    true
-  title:      Senior Frontend Developer
+  title:      Senior Front-End Developer
 
 onurtokgoz:
   name:       Onur Tokgöz
@@ -251,8 +251,9 @@ onderceylan:
   name:       Önder Ceylan
   avatar:     onderceylan.jpg
   permalink:  onder-ceylan
+  working:    true
+  title:      Senior Front-End Developer
   working:    false
-  title:      Senior Frontend Developer
   twitter:    onderceylan
   github:     onderceylan
 
