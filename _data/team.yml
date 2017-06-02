@@ -9,7 +9,7 @@ ardacakiroglu:
   name:       Arda Çakıroğlu
   avatar:     ardacakiroglu.jpg
   permalink:  arda-cakiroglu
-  working:    true
+  working:    false
   github:     ardaolca
   title:      Software Engineer
 
@@ -17,7 +17,7 @@ aykutuysal:
   name:       Aykut Uysal
   avatar:     aykutuysal.jpg
   permalink:  aykut-uysal
-  working:    true
+  working:    false
   title:      Software Developer
 
 barisguzelordu:
@@ -30,7 +30,7 @@ berkayaktan:
   name:       Berkay Aktan
   avatar:     berkayaktan.jpg
   permalink:  berkay-aktan
-  title:      Software Development Manager
+  title:      Software Manager
   working:    true
 
 burakergoren:
@@ -40,12 +40,21 @@ burakergoren:
   title:      QA Specialist
   working:    true
 
+canyildirim:
+  name:       Can Yıldırım
+  avatar:     canyildirim.jpg
+  permalink:  can-yildirim
+  title:      QA Analyst
+  working:    true
+  twitter:    cyildirim_
+  github:     cyildirim
+
 cenkebret:
   name:       Cenk Ebret
   avatar:     cenkebret.jpg
   permalink:  cenk-ebret
-  title:      Senior Front-End Developer
-  working:    true
+  title:      Principal Software Developer
+  working:    false
   twitter:    cenkingunlugu
 
 cenkhasirlioglu:
@@ -76,14 +85,14 @@ elifturpcu:
   name:       Elif Turpçu
   avatar:     elifturpcu.jpg
   permalink:  elif-turpcu
-  title:      Software Development Manager
+  title:      Software Manager
   working:    true
 
 erdinckocaman:
   name:       Erdinç Kocaman
   avatar:     erdinckocaman.jpg
   permalink:  erdinc-kocaman
-  working:    true
+  working:    false
   title:      Principal Software Developer
   twitter:    erdinckocaman
   github:     erdinckocaman
@@ -102,7 +111,7 @@ ertugkaramatli:
   avatar:     ertugkaramatli.jpg
   permalink:  ertug-karamatli
   working:    true
-  title:      Principal Systems Engineer
+  title:      Software Architect
   twitter:    ertug
   github:     ertug
 
@@ -111,7 +120,7 @@ esrakose:
   avatar:     esrakose.jpeg
   permalink:  esra-kose
   working:    true
-  title:      QA Specialist
+  title:      Senior QA Specialist
 
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
@@ -141,7 +150,7 @@ hakansenceryildiz:
   avatar:     hakansenceryildiz.jpg
   permalink:  hakansencer-yildiz
   title:      Software Developer
-  working:    true
+  working:    false
   github:     haggucan
 
 hasansama:
@@ -174,6 +183,15 @@ kazimtarim:
   title:      Senior Interaction Designer
   twitter:    kazimtarim
   working:    true
+
+mehmetgungoren:
+  name:       Mehmet Güngören
+  avatar:     mehmetgungoren.jpg
+  permalink:  mehmet-gungoren
+  working:    true
+  title:      Senior Software Developer
+  twitter:    evhar002
+  github:     evhar002
 
 merttolon:
   name:       Mert Tolon
@@ -225,7 +243,7 @@ osmancetin:
   name:       Osman Çetin
   avatar:     osmancetin.jpg
   permalink:  osman-cetin
-  working:    true
+  working:    false
   title:      Software Developer
   twitter:    osman_cetin
 
@@ -235,6 +253,7 @@ onderceylan:
   permalink:  onder-ceylan
   working:    true
   title:      Senior Front-End Developer
+  working:    false
   twitter:    onderceylan
   github:     onderceylan
 
@@ -242,7 +261,7 @@ ozgurorhan:
   name:       Özgür Orhan
   avatar:     ozgurorhan.jpeg
   permalink:  ozgur-orhan
-  working:    true
+  working:    false
   title:      Big Data Engineer
   twitter:    ozbuyucusu
   github:     frail
