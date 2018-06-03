@@ -45,7 +45,7 @@ canyildirim:
   avatar:     canyildirim.jpg
   permalink:  can-yildirim
   title:      QA Analyst
-  working:    true
+  working:    false
   twitter:    cyildirim_
   github:     cyildirim
 
@@ -188,7 +188,7 @@ mehmetgungoren:
   name:       Mehmet Güngören
   avatar:     mehmetgungoren.jpg
   permalink:  mehmet-gungoren
-  working:    true
+  working:    false
   title:      Senior Software Developer
   twitter:    evhar002
   github:     evhar002
