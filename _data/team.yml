@@ -298,3 +298,12 @@ serkancapkan:
   permalink:  serkan-capkan
   working:    false
 
+utkusoytas:
+  name:       Utku Soytaş
+  avatar:     utkusoytas.jpg
+  permalink:  utku-soytas
+  title:      Software Developer
+  working:    true
+  twitter:    autkusoytas
+  github:     autkusoytas
+
