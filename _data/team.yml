@@ -62,14 +62,14 @@ cenkhasirlioglu:
   avatar:     cenkhasirlioglu.jpg
   permalink:  cenk-hasirlioglu
   title:      Director, System Administration & Engineering Operations
-  working:    true
+  working:    false 
   github:     eiknuj
 
 cerensaricam:
   name:       Ceren Sarıçam
   avatar:     cerensaricam.jpg
   permalink:  ceren-saricam
-  title:      QA Specialist
+  title:      Senior Software Test Engineer
   working:    true
 
 dorukozalp:
@@ -120,7 +120,7 @@ esrakose:
   avatar:     esrakose.jpeg
   permalink:  esra-kose
   working:    true
-  title:      Senior QA Specialist
+  title:      Senior Software Test Engineer
 
 fatihhayrioglu:
   name:       Fatih Hayrioğlu
@@ -222,7 +222,7 @@ mustafaerturk:
   avatar:     mustafaerturk.jpg
   permalink:  mustafa-erturk
   working:    true
-  title:      QA Team Lead
+  title:      Software Test Team Lead
   
 necatiustundag:
   name:       Necati Üstündağ
@@ -251,7 +251,6 @@ onderceylan:
   name:       Önder Ceylan
   avatar:     onderceylan.jpg
   permalink:  onder-ceylan
-  working:    true
   title:      Senior Front-End Developer
   working:    false
   twitter:    onderceylan
@@ -278,7 +277,7 @@ savasavcu:
   name:       Savaş Avcu
   avatar:     savasavcu.jpg
   permalink:  savas-avcu
-  title:      Senior QA Specialist
+  title:      Principal Software Test Engineer
   working:    true
   twitter:    savasavcu
   github:     savasavcu
