@@ -62,7 +62,7 @@ cenkhasirlioglu:
   avatar:     cenkhasirlioglu.jpg
   permalink:  cenk-hasirlioglu
   title:      Director, System Administration & Engineering Operations
-  working:    true
+  working:    false
   github:     eiknuj
 
 cerensaricam:
@@ -251,7 +251,6 @@ onderceylan:
   name:       Önder Ceylan
   avatar:     onderceylan.jpg
   permalink:  onder-ceylan
-  working:    true
   title:      Senior Front-End Developer
   working:    false
   twitter:    onderceylan
@@ -271,7 +270,7 @@ ramazanaslan:
   avatar:     ramazanaslan.jpg
   permalink:  ramazanaslan82
   title:      Principal Software Developer
-  working:    true
+  working:    false
   github:     ramazanaslan82
 
 savasavcu:
