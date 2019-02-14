@@ -113,33 +113,3 @@ Chrome’dan sonra Firefox’un da bu konuda adım atması ve kendini otomatik o
 ### Sonuç
 
 Hâlâ arayüz geliştiricilerin zamanının çoğunu alan “farklı tarayıcılar için kod yazma” işinin yakında sonu gelecek gibi görünüyor. Google Chrome önderliğinde tarayıcıların kendilerini otomatik olarak güncellemesi ile farklı tarayıcılar için kod yazma sorunumuz çözülecektir.
-
-### Kaynaklar
-
-  1. [http://www.communitymx.com/content/article.cfm?page=1&amp;cid=7D9B1][18]
-  2. [http://boagworld.com/technology/effective-browser-support]()
-  3. [http://webdesign.about.com/od/testing/a/browser_support.htm]()
-  4. [http://boagworld.com/design/a-demonstration-of-graded-browser-support]()
-  5. [http://arborwebsolutions.com/2009/11/controlling-your-design-on-the-web-part-1-browser-grading/]()
-  6. [http://developer.yahoo.com/yui/articles/gbs/index.html]()
-  7. [http://windowsteamblog.com/ie/b/ie/archive/2011/12/15/ie-to-start-automatic-upgrades-across-windows-xp-windows-vista-and-windows-7.aspx]()
-  8. [http://labs.sahibinden.com/yazi/sahibinden-com-ziyaretcileri-2011-yili-teknoloji-analizi/]()
-
-   [1]: http://www.fatihhayrioglu.com/ie6-sonrasi-kod-yazma-aliskanliklarimizi-guncellemek/
-   [2]: http://www.w3schools.com/cssref/sel_hover.asp
-   [3]: http://www.w3schools.com/cssref/pr_dim_min-height.asp
-   [4]: http://www.w3schools.com/cssref/pr_dim_min-width.asp
-   [5]: http://www.w3schools.com/cssref/pr_dim_max-height.asp
-   [6]: http://www.w3schools.com/cssref/pr_dim_max-width.asp
-   [7]: http://www.w3schools.com/cssref/pr_class_position.asp
-   [8]: http://www.w3.org/TR/CSS2/selector.html#child-selectors
-   [9]: http://www.w3.org/TR/CSS2/selector.html#adjacent-selectors
-   [10]: http://www.w3.org/TR/CSS2/selector.html#attribute-selectors
-   [11]: http://www.w3schools.com/cssref/sel_firstchild.asp
-   [12]: http://www.w3schools.com/cssref/sel_firstline.asp
-   [13]: http://www.w3schools.com/cssref/sel_firstletter.asp
-   [14]: http://www.w3.org/TR/CSS2/cascade.html#important-rules
-   [15]: http://sahibinden.com/
-   [16]: https://lh3.googleusercontent.com/0EzWqL9hQPROV6CjxgzeN6G7lytwFq3zd8vgWXGZBrEuwxyIqxf38qdaQZZGE8-RzqKZVnzmtiOx8JQE-BKlVnOknTEyI_98Pnwmuug2EODF7P282vg
-   [17]: http://windowsteamblog.com/ie/b/ie/archive/2011/12/15/ie-to-start-automatic-upgrades-across-windows-xp-windows-vista-and-windows-7.aspx
-   [18]: http://www.communitymx.com/content/article.cfm?page=1&amp;cid=7D9B1
