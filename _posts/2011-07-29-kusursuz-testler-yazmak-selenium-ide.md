@@ -151,13 +151,10 @@ Label = Üye Girişi (İçinde “Üye Girişi” yazan HTML elemanı demektir.)
 
 Selenium IDE ve yazılım dillerinde kullanılan Locator’ları (Yer Bulucuları) 4 tanedir.
 
-**Xpath**
-
-**CSS Locator**
-
-**DOM (Data Object Model)**
-
-**Link Locator**
+* **Xpath**
+* **CSS Locator**
+* **DOM (Data Object Model)**
+* **Link Locator**
 
 ### Selenium IDE XPath nedir, nasıl kullanılır?
 
