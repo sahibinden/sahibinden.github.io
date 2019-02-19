@@ -145,16 +145,16 @@ Selenium IDE yüklemesi bittiğinde Firefox menüsünden sırasıyla “Araçlar
 
 3) **Value:** Target’ta belirttiğimiz nesnenin bir değeri varsa ve o değeri belirtmemiz gerekiyorsa ya da sitede bir yere bir değer yazmamız gerekiyorsa kullanırız.
 
-Label = Üye Girişi (İçinde “Üye Girişi” yazan HTML elemanı demektir. Örneğin, <span>Üye Girişi</span> )
+Label = Üye Girişi (İçinde “Üye Girişi” yazan HTML elemanı demektir.)
 
 ## Selenium IDE Yer Bulucular – Locators
 
 Selenium IDE ve yazılım dillerinde kullanılan Locator’ları (Yer Bulucuları) 4 tanedir.
 
-**Xpath
-CSS Locator
-DOM (Data Object Model)
-Link Locator**
+**Xpath**
+**CSS Locator**
+**DOM (Data Object Model)**
+**Link Locator**
 
 ### Selenium IDE XPath nedir, nasıl kullanılır?
 
