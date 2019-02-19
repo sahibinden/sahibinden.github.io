@@ -41,109 +41,109 @@ Selenium IDE yüklemesi bittiğinde Firefox menüsünden sırasıyla “Araçlar
 
 ![](/images/posts/selenium/seleniumView.png)
 
-Dosya
+**Dosya**
 : Yeni bir Test Case açmaya, kaydetmeye ya da daha önceden kaydedilmiş bir Test Case’i eklemeye ya da açmaya yarar.
 
-Düzenle
+**Düzenle**
 : Kontrol işlemlerinin yapıldığı bölümdür. (Kes, Yapıştır, Geri Al vb.)
 
-Options
+**Options**
 : Bu bölüm IDE ile alakalı ayarlamaların yapıldığı ve varsayılan IDE dilini herhangi bir dile çevirme imkanının bulunduğu bölümdür.
 
-Options > Options
+**Options > Options**
 : Karakter kodlaması ve Selenium komutlarında "Wait" komutu için milisaniye cinsinden sürenin belirlenmesi bu kısımda yapılır. Varsayılan bekleme süresi “30.000 ms = 30 sn” dir. Ayrıca Bu kısımda kişisel JavaScript'lerinizi de yükleyebilirsiniz.
 
-Options > Format
+**Options > Format**
 : Selenium scriptlerini HTML dilinden başka herhangi bir dile çevirmek için kullanılır.
 
-Options > Clipboard Format
+**Options > Clipboard Format**
 : Hızlı bir şekilde mevcut diğer dillere çevirmek için kullanılır.
 
-Yardım
+**Yardım**
 : Genel Yardım bölümüdür. Bu bölümde özellikle “UI-Element Documentation” işinize yarayabilir. Genel olarak tüm IDE’yi anlatmaktadır.
 
-Base URL
+**Base URL**
 :Test yapılman istenen URL (Web Adresi) bu alana yazılır. Eğer kayıtlı bir Test Case’iniz varsa Test Case’i çalıştırdığınızda URL otomatik olarak gelecektir.
 
-Fast & Slow
+**Fast & Slow**
 : Bu kısımda testin hızını ayarlayabilirsiniz. Testin varsayılan hızı 10′dur. Hız göstergesi 1 ile 10 arasındadır. Eğer testi 1 seviyesine getirirseniz hız, bir insanın test yaptığı hıza eşit olacaktır. Burada ki amaç testi yakalayamama durumunda hızı yavaşlatmaktır. Test hızını teste başlamadan önce ayarlamanız gerekmektedir.
 
-Play All
+**Play All**
 : Tüm Test Case’leri çalıştırmak için kullanılır.
 
-Play
+**Play**
 : Üzerinde çalışılan Test Case’i çalıştırmak için kullanılır.
 
-Pause
+**Pause**
 : Çalıştırılmış bir Test Case’i bekletmek için kullanılır.
 
-Step
+**Step**
 : Bekletilmiş bir Test Case’i adım adım ilerletmek için kullanılır.
 
-Test Runner
+**Test Runner**
 : Hem Selenium kodunu hem Test Case’i hem de testi yaptığınız siteyi hızlı bir şekilde görmek için kullanılan ideal bir araçtır.
 
-Record
+**Record**
 : Testi kaydetmek ve testi durdurmak için kullanılır. Selenium IDE’yi ilk başlattığınızda kayıt otomatik başlar, işlemlerinizi yaptıktan sonra kaydı bitirmek için Record tuşuna basmanız gerekmektedir.
 
-Log
+**Log**
 : Testin çalıştırılması ile birlikte hatalı ve başarılı işlemlerin kaydını tutar.
 
-Reference
+**Reference**
 : Komutların açıklamasını gösterir. Komutların nasıl kullanılacağı burada ayrıntılı olarak anlatılmaktadır.
 
-UI-Element
+**UI-Element**
 : Yardım bölümünde detaylı olarak açıklaması bulunmaktadır, biz şuan bu özelliğe değinmeyeceğiz.
 
-Rollup
+**Rollup**
 : Yardım bölümünde detaylı olarak açıklaması bulunmaktadır, biz şuan bu özelliğe değinmeyeceğiz.
 
 ## Selenium IDE Nasıl Çalışır ?
 
-1) Command: Olayların gerçekleşmesi için komutların girilmesini sağlar. En çok kullanılanları görelim;
+1) **Command:** Olayların gerçekleşmesi için komutların girilmesini sağlar. En çok kullanılanları görelim;
 
-open
+**open**
 : URL’i ( Siteyi/adresi ) açmak içindir.
 
-click
+**click**
 : Bir nesneye tıklamak içindir.
 
-clickandWait
+**clickandWait**
 : Nesneye tıkladıktan sonra sayfanın yüklenmesini bekler.
 
-assertElementPresent
+**assertElementPresent**
 : Belirtilen elemanın yüklenmesini bekler.
 
-assertTextPresent
+**assertTextPresent**
 : Belirtilen bir text’in(yazının) sayfada olup olmadığını kontrol eder.
 
-deleteCookie
+**deleteCookie**
 : Belirtilen Cookie’nin silinmesi sağlar.
 
-mouseOver
+**mouseOver**
 : Mouse’u belirtilen elementin üzerine götürür.
 
-verifyTextPresent
+**verifyTextPresent**
 : Belirtilen nesnenin belirmesini bekler ve sağlamasını yapar.
 
-waitForPageToLoad
+**waitForPageToLoad**
 : Sayfanın yüklenmesini bekler.
 
-captureEntirePageScreenshot
+**captureEntirePageScreenshot**
 : Üzerinde test yaptığınız sayfanın ekran görüntüsünü çerçevesiz olarak kaydeder.
 
-waitForElementPresent
+**waitForElementPresent**
 : Sayfadaki bir elementin yüklenmesini bekler, bunu genellikle JavaScript tarafından kontrol edilen elementler için kullanırız.
 
-type
+**type**
 : Bir input’un içine yazmak için kullanılır.
 
-2) Target: Command’ta belirttiğimiz olayın hangi nesne üzerinde gerçekleşeceğini belirtiriz. Burada CSS Locator ya da Xpath gibi “Yer Bulucular” kullanmamız gerekmektedir. Bir sonra ki konuda “Yer Bulucular”a değineceğiz.
+2) **Target:** Command’ta belirttiğimiz olayın hangi nesne üzerinde gerçekleşeceğini belirtiriz. Burada CSS Locator ya da Xpath gibi “Yer Bulucular” kullanmamız gerekmektedir. Bir sonra ki konuda “Yer Bulucular”a değineceğiz.
 
     Css=#menu1 ( HTML’de ki elemanlardan id si menu1 olan [id="menu1"] demek.)
     Xpath=div[@id=’menu1’] ( id si menu1 olan div [id="menu1"] demek.)
 
-3) Value: Target’ta belirttiğimiz nesnenin bir değeri varsa ve o değeri belirtmemiz gerekiyorsa ya da sitede bir yere bir değer yazmamız gerekiyorsa kullanırız.
+3) **Value:** Target’ta belirttiğimiz nesnenin bir değeri varsa ve o değeri belirtmemiz gerekiyorsa ya da sitede bir yere bir değer yazmamız gerekiyorsa kullanırız.
 
 Label = Üye Girişi (İçinde “Üye Girişi” yazan HTML elemanı demektir. Örneğin, <span>Üye Girişi</span> )
 
@@ -151,10 +151,10 @@ Label = Üye Girişi (İçinde “Üye Girişi” yazan HTML elemanı demektir. 
 
 Selenium IDE ve yazılım dillerinde kullanılan Locator’ları (Yer Bulucuları) 4 tanedir.
 
-Xpath
+**Xpath
 CSS Locator
 DOM (Data Object Model)
-Link Locator
+Link Locator**
 
 ### Selenium IDE XPath nedir, nasıl kullanılır?
 
