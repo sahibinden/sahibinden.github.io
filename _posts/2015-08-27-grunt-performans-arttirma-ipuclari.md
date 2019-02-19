@@ -179,7 +179,7 @@ module.exports = function (grunt) {
 
 Bu işlemden sonra konsoldan hangi task'ın ne kadar sürede çalıştığını, diğer task'lara oranla ne kadar sürdüğünü, toplam çalışma süresini vb bilgileri ölçebileceksiniz.
 
-### Gruntfile.js'i Düzenleme
+### Gruntfile.js'i Düzenleme
 
 Daha okunabilir, geliştirilebilir ve tekrar kullanılabilir bir Gruntfile.js dosyasına sahip olmak için aşağıdaki adımları izleyebilirsiniz.
 
@@ -195,7 +195,7 @@ Daha okunabilir, geliştirilebilir ve tekrar kullanılabilir bir Gruntfile.js do
 
 Hangi plugin'lerin bize nasıl bir fayda sağladığını ve sonuçlarının nasıl etki ettiğini görelim;
 
-#### package
+#### package
 package task'ı, Live'a / Canlı Ortama gönderim sırasında çalışan task'ımızdır. HTML'lerin sıkıştırılması, Stylus dosyalarının CSS'e derlenmesi, Sprite'ların üretilmesi gibi işleri yapar yani SAFE kodlarının Live'a hazır hale gelmesini sağlar. package task'ı, Eskiden yaklaşık **1 dakika 14 saniye**de tamamlanırken şu an yaklaşık **29 saniye**de tamamlanıyor. Yani eskisine göre hızımızda **2.5 kat** ya da **%156** artış oldu.
 
 #### default
