@@ -179,7 +179,7 @@ module.exports = function (grunt) {
 
 Bu işlemden sonra konsoldan hangi task'ın ne kadar sürede çalıştığını, diğer task'lara oranla ne kadar sürdüğünü, toplam çalışma süresini vb bilgileri ölçebileceksiniz.
 
-### Gruntfile.js'i Düzenleme
+### Gruntfile.js'i Düzenleme
 
 Daha okunabilir, geliştirilebilir ve tekrar kullanılabilir bir Gruntfile.js dosyasına sahip olmak için aşağıdaki adımları izleyebilirsiniz.
 
