@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-Bir internet projesinde projeyi geliştirmek kadar yapılan geliştirmenin herhangi bir yan etkisinin olup olmadığını beklenen şekilde çalışıp çalışmadığını test etmek te büyük önem taşır. Sahibinden.com gibi günde 2 milyon kişinin[^1] ziyaret ettiği bir sitenin geliştiricisi olarak hata yapma lüksünüz yoktur. Sitelerin kullanıcı kitlesi büyüyüp çeşitlendiğinde yapılan geliştirmelerin yan etkileri de çok büyük olabildiğinden bu test işlemi de başlı başına bir problem olabilmektedir. Sahibinden.com’da yapılacak her geliştirmenin yayına alınmasından önce bütün sayfalarda elle gezilerek test edilmesi oldukça acı verici olurdu. Tabi ki böyle bir test ortamı makul karşılanamayacağından Selenium çözümü günümüz test yönetimi alanında bilinen en iyi çözümdür.
+Bir internet projesinde projeyi geliştirmek kadar yapılan geliştirmenin herhangi bir yan etkisinin olup olmadığını beklenen şekilde çalışıp çalışmadığını test etmek te büyük önem taşır. Sahibinden.com gibi günde 2 milyon kişinin[^1] ziyaret ettiği bir sitenin geliştiricisi olarak hata yapma lüksünüz yoktur. Sitelerin kullanıcı kitlesi büyüyüp çeşitlendiğinde yapılan geliştirmelerin yan etkileri de çok büyük olabildiğinden bu test işlemi de başlı başına bir problem olabilmektedir. Sahibinden.com’da yapılacak her geliştirmenin yayına alınmasından önce bütün sayfalarda elle gezilerek test edilmesi oldukça acı verici olurdu. Tabii ki böyle bir test ortamı makul karşılanamayacağından Selenium çözümü günümüz test yönetimi alanında bilinen en iyi çözümdür.
 
 ## Selenium IDE Nedir?
 
