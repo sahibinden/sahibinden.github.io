@@ -39,10 +39,10 @@ avatar
 : Eklediğiniz avatar fotoğrafınızın dosya adı. Avatar fotoğrafınız, kare boyutunda, en az 200x200 boyutunda ve jpg formatında olmalıdır.
 
 title
-: Şirketteki ünvanınız
+: Şirketteki unvanınız
 
 permalink
-: İsminizin yazar arşivi sayfası url'inde görülecek hali (`/yazar/murat-corlu/` şeklinde görünmesi için `murat-corlu` değeri girilmeli)
+: Adınızın yazar arşivi sayfası url'inde görülecek hali (`/yazar/ad-soyad/` şeklinde görünmesi için `ad-soyad` değeri girilmeli)
 
 twitter
 : Twitter kullanıcı adınız (opsiyonel)
